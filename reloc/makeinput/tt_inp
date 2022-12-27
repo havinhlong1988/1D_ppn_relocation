@@ -1,0 +1,2892 @@
+#          1
+LCVB    9.600 1.0 Pg
+DBVB   13.420 1.0 Pg
+TGVB   15.930 1.0 Pg
+#          2
+TGVB    4.230 1.0 Pg
+LCVB    6.440 1.0 Pg
+DBVB    8.840 1.0 Pg
+SLVB   12.970 1.0 Pg
+SPVB   15.380 1.0 Pg
+TTVB   20.140 1.0 Pg
+#          3
+LCVB    5.280 1.0 Pg
+SPVB   10.770 1.0 Pg
+TGVB   13.720 1.0 Pg
+#          4
+TGVB    2.900 1.0 Pg
+LCVB    8.460 1.0 Pg
+DBVB    9.790 1.0 Pg
+SLVB   10.770 1.0 Pg
+SPVB   14.900 1.0 Pg
+#          5
+SPVB   11.960 1.0 Pg
+LCVB   12.910 1.0 Pg
+TGVB   21.300 1.0 Pg
+#          6
+SPVB    7.680 1.0 Pg
+TTVB   15.820 1.0 Pg
+SLVB   19.070 1.0 Pg
+TGVB   19.530 1.0 Pg
+LCVB   19.810 1.0 Pg
+#          7
+DBVB    7.760 1.0 Pg
+TGVB    8.160 1.0 Pg
+SLVB   10.960 1.0 Pg
+LCVB   16.320 1.0 Pg
+#          8
+TGVB    3.860 1.0 Pg
+DBVB    5.430 1.0 Pg
+LCVB   10.920 1.0 Pg
+SLVB   11.880 1.0 Pg
+#          9
+DBVB    1.640 1.0 Pg
+TGVB    8.510 1.0 Pg
+LCVB   12.770 1.0 Pg
+#         10
+LCVB    6.250 1.0 Pg
+SPVB    8.470 1.0 Pg
+TGVB    9.900 1.0 Pg
+#         11
+TGVB    2.660 1.0 Pg
+LCVB    7.540 1.0 Pg
+DBVB    8.390 1.0 Pg
+#         12
+TGVB    2.580 1.0 Pg
+LCVB    7.500 1.0 Pg
+DBVB    8.320 1.0 Pg
+#         13
+DBVB    4.640 1.0 Pg
+TGVB   11.830 1.0 Pg
+LCVB   15.750 1.0 Pg
+SLVB   18.670 1.0 Pg
+#         15
+DBVB   11.580 1.0 Pg
+TGVB   14.580 1.0 Pg
+SLVB   14.770 1.0 Pg
+#         16
+DBVB   11.890 1.0 Pg
+SLVB   19.090 1.0 Pg
+#         17
+TGVB   10.510 1.0 Pg
+LCVB   14.080 1.0 Pg
+SLVB   18.250 1.0 Pg
+#         18
+LCVB   11.810 1.0 Pg
+DBVB   13.490 1.0 Pg
+TGVB   17.120 1.0 Pg
+#         19
+MCVB    4.800 1.0 Pg
+TTVB    8.770 1.0 Pg
+SPVB   27.560 1.0 Pg
+#         20
+SLVB    4.100 1.0 Pg
+TTVB    7.220 1.0 Pg
+TGVB   11.010 1.0 Pg
+#         21
+TGVB    2.470 1.0 Pg
+DBVB    9.340 1.0 Pg
+SLVB   10.480 1.0 Pg
+TTVB   17.120 1.0 Pg
+#         22
+CBVB   43.980 1.0 Pg
+HGVB   44.490 1.0 Pg
+VTVB   56.020 1.0 Pg
+BCVB   58.680 1.0 Pg
+LSVB   60.440 1.0 Pg
+SPVB   64.410 1.0 Pg
+BGVB   69.570 1.0 Pg
+TIVB   71.920 1.0 Pg
+TTVB   72.020 1.0 Pg
+LCVB   75.690 1.0 Pg
+SLVB   78.190 1.0 Pg
+PLVB   79.080 1.0 Pg
+TGVB   79.690 1.0 Pg
+MCVB   81.590 1.0 Pg
+DBVB   86.900 1.0 Pg
+#         23
+LCVB    6.070 1.0 Pg
+TGVB   15.430 1.0 Pg
+SPVB   17.560 1.0 Pg
+#         24
+LCVB   30.660 1.0 Pg
+SLVB   48.680 1.0 Pg
+TTVB   54.760 1.0 Pg
+VTVB   59.230 1.0 Pg
+#         25
+SPVB   34.380 1.0 Pg
+TGVB   39.490 1.0 Pg
+DBVB   39.890 1.0 Pg
+SLVB   48.770 1.0 Pg
+HGVB   49.250 1.0 Pg
+VTVB   50.180 1.0 Pg
+TTVB   52.260 1.0 Pg
+CBVB   70.490 1.0 Pg
+#         26
+TGVB   18.010 1.0 Pg
+SLVB   18.570 1.0 Pg
+LCVB   24.440 1.0 Pg
+THVB   50.130 1.0 Pg
+HGVB   51.000 1.0 Pg
+BCVB   51.900 1.0 Pg
+DBVB   12.200 1.0 Pg
+#         27
+TGVB   14.130 1.0 Pg
+SLVB   15.230 1.0 Pg
+DBVB   10.470 1.0 Pg
+#         28
+SPVB   15.910 1.0 Pg
+SLVB   30.270 1.0 Pg
+TTVB   33.140 1.0 Pg
+VTVB   33.590 1.0 Pg
+HGVB   34.070 1.0 Pg
+#         29
+DBVB   48.640 1.0 Pg
+TGVB   53.190 1.0 Pg
+SPVB   56.050 1.0 Pg
+HGVB   75.530 1.0 Pg
+#         30
+SLVB   40.480 1.0 Pg
+VTVB   50.420 1.0 Pg
+HGVB   51.750 1.0 Pg
+#         31
+DBVB   36.270 1.0 Pg
+TGVB   43.740 1.0 Pg
+LCVB   45.130 1.0 Pg
+SLVB   49.860 1.0 Pg
+SPVB   58.570 1.0 Pg
+TTVB   58.810 1.0 Pg
+MCVB   62.110 1.0 Pg
+CCVB   70.940 1.0 Pg
+VTVB   72.460 1.0 Pg
+HGVB   79.180 1.0 Pg
+#         32
+TTVB   65.500 1.0 Pg
+MCVB   69.960 1.0 Pg
+DHVB   81.040 1.0 Pg
+HGVB   86.050 1.0 Pg
+VIVB   96.130 1.0 Pg
+BGVB   97.230 1.0 Pg
+MTVB  101.170 1.0 Pg
+LAVB   79.360 1.0 Pg
+CCVB   77.510 1.0 Pg
+THVB   89.360 1.0 Pg
+SPVB   63.630 1.0 Pg
+TGVB   50.250 1.0 Pg
+DBVB   43.170 1.0 Pg
+BCVB   91.870 1.0 Pg
+SLVB   56.810 1.0 Pg
+#         33
+DBVB   47.160 1.0 Pg
+TGVB   54.870 1.0 Pg
+SLVB   61.740 1.0 Pg
+CCVB   84.500 1.0 Pg
+LAVB   85.950 1.0 Pg
+HGVB   89.920 1.0 Pg
+BCVB   96.100 1.0 Pg
+#         34
+DBVB   33.320 1.0 Pg
+TGVB   41.630 1.0 Pg
+SLVB   46.530 1.0 Pg
+TTVB   56.090 1.0 Pg
+MCVB   57.590 1.0 Pg
+CCVB   68.220 1.0 Pg
+LAVB   68.440 1.0 Pg
+VTVB   71.200 1.0 Pg
+#         35
+DBVB   37.470 1.0 Pg
+SLVB   52.880 1.0 Pg
+SPVB   57.160 1.0 Pg
+#         36
+DBVB   36.710 1.0 Pg
+TGVB   46.000 1.0 Pg
+SLVB   50.460 1.0 Pg
+SPVB   59.120 1.0 Pg
+TTVB   60.700 1.0 Pg
+MCVB   63.580 1.0 Pg
+CCVB   72.100 1.0 Pg
+LAVB   73.130 1.0 Pg
+THVB   82.770 1.0 Pg
+#         37
+DBVB   35.050 1.0 Pg
+TGVB   43.480 1.0 Pg
+SLVB   49.510 1.0 Pg
+SPVB   58.540 1.0 Pg
+TTVB   59.620 1.0 Pg
+MCVB   61.560 1.0 Pg
+CCVB   71.800 1.0 Pg
+LAVB   73.030 1.0 Pg
+HGVB   78.950 1.0 Pg
+BCVB   85.060 1.0 Pg
+#         38
+DBVB   42.140 1.0 Pg
+TGVB   49.710 1.0 Pg
+SLVB   57.230 1.0 Pg
+SPVB   63.530 1.0 Pg
+CCVB   75.830 1.0 Pg
+LAVB   78.380 1.0 Pg
+HGVB   87.070 1.0 Pg
+THVB   88.850 1.0 Pg
+BCVB   90.860 1.0 Pg
+VIVB   91.840 1.0 Pg
+BGVB   95.500 1.0 Pg
+MTVB   98.150 1.0 Pg
+PLVB  101.710 1.0 Pg
+#         39
+DBVB   35.550 1.0 Pg
+TGVB   44.380 1.0 Pg
+SLVB   48.980 1.0 Pg
+TTVB   59.980 1.0 Pg
+MCVB   60.670 1.0 Pg
+CCVB   70.970 1.0 Pg
+HGVB   80.580 1.0 Pg
+#         40
+DBVB   36.190 1.0 Pg
+TGVB   43.580 1.0 Pg
+SLVB   49.000 1.0 Pg
+TTVB   58.970 1.0 Pg
+MCVB   60.530 1.0 Pg
+CCVB   70.640 1.0 Pg
+LAVB   71.380 1.0 Pg
+HGVB   79.210 1.0 Pg
+BCVB   84.400 1.0 Pg
+VIVB   86.790 1.0 Pg
+#         41
+DBVB   36.470 1.0 Pg
+TGVB   43.830 1.0 Pg
+SLVB   50.800 1.0 Pg
+#         42
+DBVB    5.700 1.0 Pg
+MCVB   34.850 1.0 Pg
+CCVB   56.980 1.0 Pg
+#         43
+SLVB   46.120 1.0 Pg
+#         44
+DBVB   39.610 1.0 Pg
+TGVB   48.030 1.0 Pg
+SLVB   54.160 1.0 Pg
+TTVB   63.500 1.0 Pg
+LAVB   78.350 1.0 Pg
+#         45
+DBVB   33.580 1.0 Pg
+TGVB   40.980 1.0 Pg
+SLVB   45.870 1.0 Pg
+MCVB   57.810 1.0 Pg
+CCVB   68.290 1.0 Pg
+LAVB   68.880 1.0 Pg
+VTVB   70.090 1.0 Pg
+#         46
+DBVB   37.760 1.0 Pg
+TGVB   46.270 1.0 Pg
+SLVB   52.560 1.0 Pg
+MCVB   62.890 1.0 Pg
+CCVB   72.510 1.0 Pg
+#         47
+DBVB   33.890 1.0 Pg
+TGVB   40.560 1.0 Pg
+SLVB   47.710 1.0 Pg
+TTVB   57.150 1.0 Pg
+MCVB   57.780 1.0 Pg
+CCVB   69.290 1.0 Pg
+LAVB   69.130 1.0 Pg
+HGVB   76.890 1.0 Pg
+#         48
+DBVB   33.610 1.0 Pg
+TGVB   41.290 1.0 Pg
+SLVB   46.820 1.0 Pg
+MCVB   58.090 1.0 Pg
+#         49
+DBVB   36.700 1.0 Pg
+SLVB   49.090 1.0 Pg
+SPVB   58.570 1.0 Pg
+TTVB   58.660 1.0 Pg
+MCVB   61.840 1.0 Pg
+CCVB   70.630 1.0 Pg
+LAVB   73.020 1.0 Pg
+#         50
+DBVB   36.620 1.0 Pg
+TGVB   44.410 1.0 Pg
+SLVB   49.820 1.0 Pg
+TTVB   60.160 1.0 Pg
+CCVB   70.420 1.0 Pg
+HGVB   81.310 1.0 Pg
+#         51
+MTVB   26.970 1.0 Pg
+BGVB   32.040 1.0 Pg
+BCVB   32.240 1.0 Pg
+HGVB   44.770 1.0 Pg
+TTVB   57.460 1.0 Pg
+LAVB   58.650 1.0 Pg
+SLVB   66.520 1.0 Pg
+TGVB   72.830 1.0 Pg
+#         52
+DBVB   40.430 1.0 Pg
+TGVB   44.050 1.0 Pg
+SLVB   53.980 1.0 Pg
+TTVB   60.790 1.0 Pg
+HGVB   62.950 1.0 Pg
+VTVB   62.710 1.0 Pg
+MCVB   69.980 1.0 Pg
+BCVB   78.550 1.0 Pg
+CBVB   84.790 1.0 Pg
+MTVB   90.360 1.0 Pg
+CCVB   96.680 1.0 Pg
+#         53
+DBVB   38.140 1.0 Pg
+SPVB   42.430 1.0 Pg
+TGVB   41.890 1.0 Pg
+SLVB   50.950 1.0 Pg
+TTVB   56.670 1.0 Pg
+VTVB   59.290 1.0 Pg
+MCVB   67.290 1.0 Pg
+DHVB   68.350 1.0 Pg
+BCVB   75.310 1.0 Pg
+HN1B   83.790 1.0 Pg
+LAVB   83.600 1.0 Pg
+BGVB   86.610 1.0 Pg
+MTVB   86.650 1.0 Pg
+CCVB   93.860 1.0 Pg
+#         54
+DBVB   39.470 1.0 Pg
+TGVB   42.460 1.0 Pg
+SLVB   52.640 1.0 Pg
+TTVB   58.450 1.0 Pg
+HGVB   60.400 1.0 Pg
+VTVB   58.180 1.0 Pg
+MCVB   69.170 1.0 Pg
+BCVB   76.190 1.0 Pg
+CBVB   80.720 1.0 Pg
+MTVB   88.150 1.0 Pg
+CCVB   95.470 1.0 Pg
+#         55
+DBVB   34.850 1.0 Pg
+TGVB   37.650 1.0 Pg
+SLVB   47.670 1.0 Pg
+TTVB   52.120 1.0 Pg
+VTVB   52.560 1.0 Pg
+HGVB   54.830 1.0 Pg
+#         56
+LCVB    3.730 1.0 Pg
+DBVB   10.330 1.0 Pg
+SLVB   19.390 1.0 Pg
+MCVB   35.490 1.0 Pg
+HGVB   38.660 1.0 Pg
+TGVB    9.540 1.0 Pg
+SPVB   16.930 1.0 Pg
+VTVB   33.900 1.0 Pg
+BCVB   49.130 1.0 Pg
+#         57
+DBVB   36.390 1.0 Pg
+TGVB   42.980 1.0 Pg
+SLVB   49.880 1.0 Pg
+SPVB   58.160 1.0 Pg
+TTVB   59.500 1.0 Pg
+MCVB   63.160 1.0 Pg
+CCVB   72.930 1.0 Pg
+VTVB   73.950 1.0 Pg
+LAVB   73.160 1.0 Pg
+HGVB   79.420 1.0 Pg
+THVB   84.240 1.0 Pg
+#         58
+TGVB   37.410 1.0 Pg
+TTVB   41.730 1.0 Pg
+SLVB   43.120 1.0 Pg
+MCVB   55.810 1.0 Pg
+HN1B   63.110 1.0 Pg
+LAVB   71.140 1.0 Pg
+THVB   81.970 1.0 Pg
+CCVB   89.500 1.0 Pg
+VTVB   35.480 1.0 Pg
+DBVB   41.290 1.0 Pg
+BCVB   51.710 1.0 Pg
+BGVB   64.840 1.0 Pg
+PLVB   75.620 1.0 Pg
+TIYB   80.570 1.0 Pg
+CBVB   51.350 1.0 Pg
+MTVB   64.910 1.0 Pg
+#         60
+DBVB   53.500 1.0 Pg
+TGVB   60.630 1.0 Pg
+SPVB   69.610 1.0 Pg
+SLVB   68.180 1.0 Pg
+TTVB   77.620 1.0 Pg
+MCVB   82.610 1.0 Pg
+HGVB   89.700 1.0 Pg
+LAVB   97.410 1.0 Pg
+#         61
+DBVB   48.890 1.0 Pg
+TGVB   54.910 1.0 Pg
+TTVB   72.630 1.0 Pg
+SLVB   64.480 1.0 Pg
+SPVB   63.590 1.0 Pg
+#         62
+SLVB    3.380 1.0 Pg
+TTVB    6.850 1.0 Pg
+MCVB   13.410 1.0 Pg
+TGVB   13.080 1.0 Pg
+DBVB   19.210 1.0 Pg
+SPVB   21.330 1.0 Pg
+HGVB   33.410 1.0 Pg
+CBVB   45.510 1.0 Pg
+BCVB   32.280 1.0 Pg
+#         63
+SPVB   35.900 1.0 Pg
+DBVB   36.840 1.0 Pg
+TGVB   39.580 1.0 Pg
+SLVB   46.420 1.0 Pg
+HGVB   51.040 1.0 Pg
+TTVB   51.940 1.0 Pg
+VTVB   52.320 1.0 Pg
+MCVB   63.450 1.0 Pg
+BCVB   67.590 1.0 Pg
+CBVB   72.260 1.0 Pg
+BGVB   79.830 1.0 Pg
+CCVB   92.310 1.0 Pg
+#         64
+DBVB   47.410 1.0 Pg
+LCVB   53.550 1.0 Pg
+TGVB   54.590 1.0 Pg
+SLVB   62.770 1.0 Pg
+TTVB   72.370 1.0 Pg
+MCVB   74.530 1.0 Pg
+DHVB   85.940 1.0 Pg
+LAVB   85.600 1.0 Pg
+HGVB   87.970 1.0 Pg
+BGVB  103.020 1.0 Pg
+#         65
+SPVB   33.220 1.0 Pg
+VTVB   38.060 1.0 Pg
+LCVB   41.780 1.0 Pg
+CBVB   47.390 1.0 Pg
+TGVB   49.190 1.0 Pg
+TTVB   51.480 1.0 Pg
+BCVB   52.100 1.0 Pg
+SLVB   52.360 1.0 Pg
+DBVB   54.430 1.0 Pg
+MCVB   62.910 1.0 Pg
+MTVB   65.280 1.0 Pg
+#         66
+SPVB   28.810 1.0 Pg
+VTVB   35.540 1.0 Pg
+TGVB   44.990 1.0 Pg
+CBVB   45.390 1.0 Pg
+TTVB   46.250 1.0 Pg
+SLVB   48.690 1.0 Pg
+BCVB   49.330 1.0 Pg
+DBVB   50.430 1.0 Pg
+MCVB   58.770 1.0 Pg
+MTVB   62.680 1.0 Pg
+DSVB   68.350 1.0 Pg
+LAVB   74.000 1.0 Pg
+TIYB   77.520 1.0 Pg
+#         67
+TGVB   10.760 1.0 Pg
+LCVB   14.450 1.0 Pg
+SLVB   18.210 1.0 Pg
+DBVB    3.150 1.0 Pg
+#         68
+LCVB   67.360 1.0 Pg
+SPVB   71.240 1.0 Pg
+#         69
+CBVB   32.410 1.0 Pg
+VTVB   37.150 1.0 Pg
+BCVB   43.880 1.0 Pg
+DHVB   47.360 1.0 Pg
+TTVB   52.200 1.0 Pg
+LCVB   54.560 1.0 Pg
+BGVB   56.870 1.0 Pg
+SLVB   59.020 1.0 Pg
+TGVB   57.610 1.0 Pg
+TIYB   65.470 1.0 Pg
+PLVB   67.220 1.0 Pg
+DSVB   67.300 1.0 Pg
+LAVB   75.710 1.0 Pg
+#         70
+CBVB   16.800 1.0 Pg
+MTVB   35.320 1.0 Pg
+BGVB   38.750 1.0 Pg
+TTVB   39.140 1.0 Pg
+TGVB   49.240 1.0 Pg
+PLVB   48.840 1.0 Pg
+DSVB   50.340 1.0 Pg
+DBVB   57.080 1.0 Pg
+THVB   64.090 1.0 Pg
+VIVB   86.810 1.0 Pg
+MCVB   49.610 1.0 Pg
+LCVB   48.740 1.0 Pg
+SPVB   34.370 1.0 Pg
+#         71
+SPVB   31.690 1.0 Pg
+VTVB   36.940 1.0 Pg
+LCVB   40.700 1.0 Pg
+CBVB   46.510 1.0 Pg
+TGVB   47.330 1.0 Pg
+TTVB   49.340 1.0 Pg
+BCVB   51.030 1.0 Pg
+DBVB   52.500 1.0 Pg
+MCVB   61.420 1.0 Pg
+MTVB   62.480 1.0 Pg
+#         72
+DBVB   42.680 1.0 Pg
+TGVB   52.090 1.0 Pg
+LCVB   50.490 1.0 Pg
+SLVB   56.320 1.0 Pg
+MCVB   66.210 1.0 Pg
+CCVB   78.180 1.0 Pg
+VTVB   79.970 1.0 Pg
+THVB   89.710 1.0 Pg
+BCVB   92.460 1.0 Pg
+BGVB   98.270 1.0 Pg
+MTVB  101.140 1.0 Pg
+#         73
+DBVB   50.240 1.0 Pg
+TGVB   58.180 1.0 Pg
+SLVB   66.630 1.0 Pg
+CCVB   94.570 1.0 Pg
+#         74
+SPVB   35.850 1.0 Pg
+VTVB   40.910 1.0 Pg
+LCVB   43.560 1.0 Pg
+CBVB   49.070 1.0 Pg
+TGVB   50.810 1.0 Pg
+TTVB   52.850 1.0 Pg
+BCVB   54.220 1.0 Pg
+SLVB   55.690 1.0 Pg
+DBVB   56.680 1.0 Pg
+MTVB   66.410 1.0 Pg
+BGVB   68.110 1.0 Pg
+PLVB   78.830 1.0 Pg
+#         75
+LCVB   38.130 1.0 Pg
+DBVB   42.960 1.0 Pg
+SPVB   45.820 1.0 Pg
+TGVB   46.210 1.0 Pg
+SLVB   56.580 1.0 Pg
+TTVB   62.530 1.0 Pg
+VTVB   63.020 1.0 Pg
+DHVB   71.440 1.0 Pg
+CBVB   86.200 1.0 Pg
+#         76
+LCVB   12.140 1.0 Pg
+DBVB   15.580 1.0 Pg
+TTVB   35.100 1.0 Pg
+VTVB   41.890 1.0 Pg
+HGVB   46.430 1.0 Pg
+CBVB   65.060 1.0 Pg
+BCVB   56.930 1.0 Pg
+#         77
+DBVB   38.470 1.0 Pg
+TGVB   47.400 1.0 Pg
+SLVB   52.100 1.0 Pg
+SPVB   60.420 1.0 Pg
+TTVB   61.990 1.0 Pg
+MCVB   65.080 1.0 Pg
+CCVB   73.950 1.0 Pg
+LAVB   75.250 1.0 Pg
+VTVB   75.490 1.0 Pg
+THVB   84.490 1.0 Pg
+BCVB   86.830 1.0 Pg
+VIVB   91.070 1.0 Pg
+MTVB   96.280 1.0 Pg
+#         78
+SPVB   35.290 1.0 Pg
+VTVB   38.380 1.0 Pg
+LCVB   42.740 1.0 Pg
+CBVB   49.250 1.0 Pg
+TGVB   49.490 1.0 Pg
+TTVB   52.170 1.0 Pg
+DHVB   52.450 1.0 Pg
+BCVB   54.190 1.0 Pg
+SLVB   55.020 1.0 Pg
+DBVB   54.690 1.0 Pg
+MCVB   65.240 1.0 Pg
+MTVB   65.170 1.0 Pg
+BGVB   67.280 1.0 Pg
+DSVB   72.500 1.0 Pg
+PLVB   80.720 1.0 Pg
+TIYB   81.130 1.0 Pg
+#         79
+DBVB   44.730 1.0 Pg
+TGVB   52.990 1.0 Pg
+LCVB   52.660 1.0 Pg
+SLVB   59.240 1.0 Pg
+SPVB   66.330 1.0 Pg
+TTVB   68.730 1.0 Pg
+MCVB   69.660 1.0 Pg
+CCVB   78.660 1.0 Pg
+LAVB   80.850 1.0 Pg
+VTVB   80.380 1.0 Pg
+HGVB   87.390 1.0 Pg
+THVB   91.930 1.0 Pg
+BCVB   93.940 1.0 Pg
+BGVB   98.760 1.0 Pg
+MTVB  102.170 1.0 Pg
+PLVB  104.980 1.0 Pg
+CBVB  104.920 1.0 Pg
+#         80
+DBVB    7.650 1.0 Pg
+LCVB   15.450 1.0 Pg
+TGVB   14.680 1.0 Pg
+#         81
+LCVB    5.140 1.0 Pg
+DBVB   11.650 1.0 Pg
+SPVB   18.400 1.0 Pg
+TTVB   28.040 1.0 Pg
+VTVB   34.880 1.0 Pg
+#         82
+TIYB    6.260 1.0 Pg
+PLVB   12.470 1.0 Pg
+MTVB   18.570 1.0 Pg
+#         83
+HGVB   10.260 1.0 Pg
+CBVB   15.510 1.0 Pg
+SPVB   31.490 1.0 Pg
+MTVB   31.710 1.0 Pg
+BGVB   35.820 1.0 Pg
+#         84
+TGVB    2.620 1.0 Pg
+DBVB    8.600 1.0 Pg
+LCVB    9.670 1.0 Pg
+SPVB   17.480 1.0 Pg
+HGVB   37.150 1.0 Pg
+LAVB   42.430 1.0 Pg
+THVB   52.830 1.0 Pg
+CBVB   53.770 1.0 Pg
+#         85
+TGVB    9.590 1.0 Pg
+HGVB   45.550 1.0 Pg
+LAVB   46.820 1.0 Pg
+MCVB   31.820 1.0 Pg
+LCVB   13.670 1.0 Pg
+DBVB    2.510 1.0 Pg
+#         86
+TGVB    1.630 1.0 Pg
+DBVB    7.560 1.0 Pg
+LCVB    8.490 1.0 Pg
+#         87
+SPVB   11.110 1.0 Pg
+HGVB   13.500 1.0 Pg
+CBVB   34.810 1.0 Pg
+MCVB   37.590 1.0 Pg
+LAVB   51.740 1.0 Pg
+BCVB   34.450 1.0 Pg
+#         88
+TGVB   35.230 1.0 Pg
+HGVB   37.500 1.0 Pg
+DHVB   51.470 1.0 Pg
+MCVB   58.610 1.0 Pg
+CBVB   60.880 1.0 Pg
+LAVB   74.770 1.0 Pg
+THVB   84.250 1.0 Pg
+#         89
+CBVB   34.690 1.0 Pg
+HGVB   41.340 1.0 Pg
+LSVB   50.040 1.0 Pg
+VTVB   50.830 1.0 Pg
+BCVB   51.080 1.0 Pg
+MTVB   56.830 1.0 Pg
+DHVB   59.480 1.0 Pg
+SPVB   61.570 1.0 Pg
+TIYB   62.310 1.0 Pg
+TTVB   68.800 1.0 Pg
+SLVB   74.600 1.0 Pg
+MCVB   76.470 1.0 Pg
+TGVB   77.200 1.0 Pg
+#         90
+SLVB   15.190 1.0 Pg
+SPVB   23.600 1.0 Pg
+LCVB   13.440 1.0 Pg
+#         91
+MCVB    3.650 1.0 Pg
+TTVB   10.470 1.0 Pg
+SLVB   14.230 1.0 Pg
+DHVB   17.340 1.0 Pg
+THVB   30.490 1.0 Pg
+MTVB   33.720 1.0 Pg
+HGVB   35.040 1.0 Pg
+CBVB   42.800 1.0 Pg
+#         92
+HGVB   33.800 1.0 Pg
+VTVB   43.120 1.0 Pg
+DHVB   55.480 1.0 Pg
+TTVB   57.510 1.0 Pg
+SLVB   61.230 1.0 Pg
+#         93
+SLVB    6.120 1.0 Pg
+TGVB   15.240 1.0 Pg
+HGVB   35.290 1.0 Pg
+#         94
+LCVB   12.290 1.0 Pg
+LSVB   46.670 1.0 Pg
+DHVB   31.800 1.0 Pg
+#         95
+TGVB    7.190 1.0 Pg
+SPVB   10.380 1.0 Pg
+LCVB    5.680 1.0 Pg
+#         96
+SLVB   37.530 1.0 Pg
+HGVB   39.850 1.0 Pg
+VTVB   39.990 1.0 Pg
+TTVB   41.480 1.0 Pg
+MTVB   68.730 1.0 Pg
+THVB   80.420 1.0 Pg
+TIYB   87.690 1.0 Pg
+MCVB   52.140 1.0 Pg
+CBVB   61.710 1.0 Pg
+BCVB   57.330 1.0 Pg
+CCVB   84.090 1.0 Pg
+DHVB   51.110 1.0 Pg
+#         97
+SPVB   15.880 1.0 Pg
+HGVB   17.080 1.0 Pg
+VTVB   22.890 1.0 Pg
+SLVB   33.840 1.0 Pg
+DHVB   33.940 1.0 Pg
+DBVB   36.960 1.0 Pg
+MCVB   44.030 1.0 Pg
+CCVB   77.620 1.0 Pg
+VIVB   87.760 1.0 Pg
+CBVB   37.250 1.0 Pg
+LSVB   44.460 1.0 Pg
+THVB   66.920 1.0 Pg
+MTVB   50.350 1.0 Pg
+TIYB   67.520 1.0 Pg
+BCVB   38.510 1.0 Pg
+#         98
+LCVB   28.200 1.0 Pg
+VTVB   31.630 1.0 Pg
+TGVB   36.390 1.0 Pg
+TTVB   39.340 1.0 Pg
+DHVB   43.210 1.0 Pg
+CBVB   46.490 1.0 Pg
+BCVB   46.650 1.0 Pg
+#         99
+LCVB    4.190 1.0 Pg
+TGVB    9.170 1.0 Pg
+DBVB   10.320 1.0 Pg
+SPVB   16.720 1.0 Pg
+HGVB   38.300 1.0 Pg
+DHVB   37.690 1.0 Pg
+VTVB   33.350 1.0 Pg
+CBVB   56.450 1.0 Pg
+MCVB   34.440 1.0 Pg
+BCVB   47.660 1.0 Pg
+#        100
+SLVB   11.340 1.0 Pg
+SPVB   15.260 1.0 Pg
+TTVB   18.270 1.0 Pg
+LCVB    8.870 1.0 Pg
+TGVB    3.600 1.0 Pg
+VTVB   28.890 1.0 Pg
+VTVB   28.050 1.0 Pg
+#        101
+LCVB   12.390 1.0 Pg
+TGVB   21.390 1.0 Pg
+BCVB   47.760 1.0 Pg
+DHVB   40.150 1.0 Pg
+#        103
+SPVB   24.500 1.0 Pg
+VTVB   34.340 1.0 Pg
+SLVB   42.190 1.0 Pg
+DHVB   46.640 1.0 Pg
+CBVB   50.210 1.0 Pg
+TGVB   36.790 1.0 Pg
+MTVB   63.990 1.0 Pg
+MCVB   54.600 1.0 Pg
+TIYB   80.100 1.0 Pg
+BCVB   50.900 1.0 Pg
+#        104
+TGVB   34.330 1.0 Pg
+SLVB   38.640 1.0 Pg
+TTVB   47.420 1.0 Pg
+#        105
+TGVB   49.210 1.0 Pg
+HGVB   58.920 1.0 Pg
+TTVB   61.080 1.0 Pg
+#        106
+DBVB   19.440 1.0 Pg
+DBVB   20.170 1.0 Pg
+MCVB   46.480 1.0 Pg
+TTVB   35.730 1.0 Pg
+CCVB   74.820 1.0 Pg
+DHVB   47.460 1.0 Pg
+BCVB   57.100 1.0 Pg
+#        107
+TGVB   48.090 1.0 Pg
+SLVB   58.980 1.0 Pg
+VTVB   69.480 1.0 Pg
+HGVB   71.140 1.0 Pg
+DBVB   44.120 1.0 Pg
+#        108
+SPVB   10.550 1.0 Pg
+VTVB   26.060 1.0 Pg
+SLVB   27.320 1.0 Pg
+TTVB   28.740 1.0 Pg
+DHVB   34.800 1.0 Pg
+MCVB   40.960 1.0 Pg
+BCVB   42.420 1.0 Pg
+CBVB   45.650 1.0 Pg
+#        109
+DBVB   19.060 1.0 Pg
+TGVB   21.710 1.0 Pg
+TGVB   23.000 1.0 Pg
+SLVB   32.480 1.0 Pg
+TTVB   39.830 1.0 Pg
+MCVB   48.460 1.0 Pg
+HGVB   51.690 1.0 Pg
+DHVB   52.410 1.0 Pg
+BCVB   62.770 1.0 Pg
+MTVB   73.150 1.0 Pg
+CCVB   71.890 1.0 Pg
+VIVB   88.540 1.0 Pg
+#        110
+SPVB   10.790 1.0 Pg
+HGVB   14.520 1.0 Pg
+VTVB   17.420 1.0 Pg
+BCVB   34.030 1.0 Pg
+DBVB   33.790 1.0 Pg
+CBVB   35.870 1.0 Pg
+MCVB   38.430 1.0 Pg
+PLVB   57.360 1.0 Pg
+TIYB   63.390 1.0 Pg
+CCVB   71.960 1.0 Pg
+#        111
+SPVB   15.400 1.0 Pg
+HGVB   16.980 1.0 Pg
+TTVB   31.460 1.0 Pg
+SLVB   33.180 1.0 Pg
+DHVB   34.520 1.0 Pg
+CBVB   38.710 1.0 Pg
+MCVB   44.360 1.0 Pg
+BCVB   38.190 1.0 Pg
+TGVB   31.110 1.0 Pg
+#        112
+SPVB   13.070 1.0 Pg
+HGVB   12.980 1.0 Pg
+SLVB   30.540 1.0 Pg
+CBVB   34.690 1.0 Pg
+MCVB   38.950 1.0 Pg
+#        113
+SLVB   38.300 1.0 Pg
+TTVB   44.630 1.0 Pg
+VTVB   48.370 1.0 Pg
+HGVB   50.410 1.0 Pg
+#        114
+SPVB   36.690 1.0 Pg
+TGVB   39.010 1.0 Pg
+SLVB   49.970 1.0 Pg
+TTVB   54.700 1.0 Pg
+VTVB   54.100 1.0 Pg
+#        115
+TGVB    9.050 1.0 Pg
+DBVB   10.380 1.0 Pg
+SPVB   16.280 1.0 Pg
+VTVB   33.040 1.0 Pg
+MCVB   34.040 1.0 Pg
+HGVB   38.040 1.0 Pg
+CCVB   62.430 1.0 Pg
+#        116
+HGVB   12.250 1.0 Pg
+TTVB   31.140 1.0 Pg
+DHVB   31.330 1.0 Pg
+TGVB   33.620 1.0 Pg
+BCVB   33.600 1.0 Pg
+#        117
+MCVB   10.470 1.0 Pg
+SLVB   11.460 1.0 Pg
+TTVB   14.510 1.0 Pg
+SPVB   30.610 1.0 Pg
+VTVB   31.320 1.0 Pg
+THVB   34.480 1.0 Pg
+CCVB   35.990 1.0 Pg
+BCVB   35.810 1.0 Pg
+HGVB   41.840 1.0 Pg
+LSVB   44.330 1.0 Pg
+PLVB   44.920 1.0 Pg
+CBVB   51.580 1.0 Pg
+#        118
+TGVB   24.160 1.0 Pg
+HBVB   66.730 1.0 Pg
+BCVB   66.120 1.0 Pg
+CCVB   68.480 1.0 Pg
+MTVB   75.520 1.0 Pg
+CBVB   76.770 1.0 Pg
+PLVB   82.790 1.0 Pg
+VIVB   85.860 1.0 Pg
+#        119
+TGVB   21.920 1.0 Pg
+HGVB   56.920 1.0 Pg
+CCVB   66.300 1.0 Pg
+#        120
+DBVB   21.810 1.0 Pg
+SLVB   36.200 1.0 Pg
+SPVB   37.060 1.0 Pg
+HGVB   61.290 1.0 Pg
+#        121
+SLVB   35.410 1.0 Pg
+TTVB   38.400 1.0 Pg
+CBVB   52.830 1.0 Pg
+#        122
+TGVB   38.300 1.0 Pg
+SLVB   48.720 1.0 Pg
+TTVB   55.250 1.0 Pg
+HGVB   55.520 1.0 Pg
+VTVB   53.760 1.0 Pg
+#        123
+DBVB   36.700 1.0 Pg
+SLVB   48.900 1.0 Pg
+TTVB   54.870 1.0 Pg
+MCVB   64.730 1.0 Pg
+HBVB   81.110 1.0 Pg
+CCVB   92.980 1.0 Pg
+#        124
+SLVB    7.070 1.0 Pg
+DBVB   10.010 1.0 Pg
+#        125
+DBVB   36.350 1.0 Pg
+TGVB   44.050 1.0 Pg
+#        126
+TGVB   16.720 1.0 Pg
+TGVB   18.440 1.0 Pg
+SPVB   20.360 1.0 Pg
+TTVB   32.570 1.0 Pg
+VTVB   37.240 1.0 Pg
+HGVB   38.980 1.0 Pg
+DHVB   44.120 1.0 Pg
+BCVB   52.640 1.0 Pg
+CBVB   59.890 1.0 Pg
+BGVB   63.350 1.0 Pg
+MTVB   63.890 1.0 Pg
+#        127
+SPVB   13.840 1.0 Pg
+HGVB   28.080 1.0 Pg
+VTVB   29.600 1.0 Pg
+SLVB   30.050 1.0 Pg
+TTVB   31.730 1.0 Pg
+DHVB   38.580 1.0 Pg
+BCVB   45.340 1.0 Pg
+CBVB   48.740 1.0 Pg
+#        128
+SLVB   37.730 1.0 Pg
+HGVB   63.970 1.0 Pg
+#        129
+DBVB    3.290 1.0 Pg
+TGVB    9.880 1.0 Pg
+SLVB   16.790 1.0 Pg
+#        130
+SLVB   25.710 1.0 Pg
+TTVB   35.160 1.0 Pg
+#        132
+DBVB   18.310 1.0 Pg
+SLVB   31.210 1.0 Pg
+#        133
+DBVB   21.760 1.0 Pg
+SLVB   34.190 1.0 Pg
+#        134
+TGVB   61.020 1.0 Pg
+HGVB   66.260 1.0 Pg
+VTVB   71.220 1.0 Pg
+SLVB   69.790 1.0 Pg
+TTVB   72.660 1.0 Pg
+#        135
+SLVB   35.320 1.0 Pg
+SPVB   44.170 1.0 Pg
+TTVB   44.470 1.0 Pg
+#        136
+SLVB   18.030 1.0 Pg
+SPVB   26.690 1.0 Pg
+CCVB   49.060 1.0 Pg
+#        137
+SLVB   27.520 1.0 Pg
+HGVB   60.140 1.0 Pg
+#        138
+TTVB    6.200 1.0 Pg
+MCVB   13.200 1.0 Pg
+TGVB   14.550 1.0 Pg
+THVB   39.920 1.0 Pg
+CCVB   44.450 1.0 Pg
+TIYB   57.810 1.0 Pg
+BGVB   37.380 1.0 Pg
+CBVB   44.330 1.0 Pg
+#        139
+TTVB    5.950 1.0 Pg
+MCVB   12.910 1.0 Pg
+TGVB   14.610 1.0 Pg
+BCVB   30.760 1.0 Pg
+HGVB   32.730 1.0 Pg
+THVB   40.430 1.0 Pg
+CBVB   43.880 1.0 Pg
+CCVB   44.400 1.0 Pg
+PLVB   45.400 1.0 Pg
+TIYB   57.730 1.0 Pg
+BGVB   37.430 1.0 Pg
+#        140
+TTVB    5.540 1.0 Pg
+SLVB    5.360 1.0 Pg
+MCVB   12.870 1.0 Pg
+TGVB   14.350 1.0 Pg
+DHVB   20.500 1.0 Pg
+BCVB   30.700 1.0 Pg
+HGVB   32.280 1.0 Pg
+CBVB   43.490 1.0 Pg
+#        141
+TTVB    5.780 1.0 Pg
+MCVB   13.050 1.0 Pg
+TGVB   14.120 1.0 Pg
+DHVB   19.720 1.0 Pg
+SPVB   20.300 1.0 Pg
+VTVB   22.150 1.0 Pg
+BGVB   37.540 1.0 Pg
+MTVB   39.380 1.0 Pg
+CBVB   44.140 1.0 Pg
+CCVB   44.860 1.0 Pg
+#        142
+SPVB    6.840 1.0 Pg
+DHVB   30.280 1.0 Pg
+BCVB   37.090 1.0 Pg
+CBVB   40.700 1.0 Pg
+BGVB   48.040 1.0 Pg
+#        143
+SLVB   50.810 1.0 Pg
+VTVB   59.860 1.0 Pg
+HGVB   61.620 1.0 Pg
+MCVB   67.410 1.0 Pg
+DHVB   68.350 1.0 Pg
+BCVB   76.420 1.0 Pg
+CBVB   82.640 1.0 Pg
+BGVB   87.720 1.0 Pg
+MTVB   87.730 1.0 Pg
+#        144
+SLVB   29.120 1.0 Pg
+VTVB   35.910 1.0 Pg
+CBVB   58.660 1.0 Pg
+MTVB   64.010 1.0 Pg
+#        145
+SLVB   30.540 1.0 Pg
+VTVB   36.380 1.0 Pg
+HGVB   37.380 1.0 Pg
+DHVB   44.590 1.0 Pg
+#        147
+MLVB    9.830 1.0 Pg
+TTVB   10.640 1.0 Pg
+#        148
+MLVB   72.900 1.0 Pg
+DBVB   64.600 1.0 Pg
+TGVB   65.270 1.0 Pg
+TTVB   75.960 1.0 Pg
+#        149
+MLVB   16.220 1.0 Pg
+MCVB    3.100 1.0 Pg
+TTVB   12.170 1.0 Pg
+DHVB   17.940 1.0 Pg
+MTVB   33.080 1.0 Pg
+HGVB   36.630 1.0 Pg
+#        150
+MLVB   47.430 1.0 Pg
+HGVB   37.560 1.0 Pg
+VTVB   44.250 1.0 Pg
+TGVB   43.930 1.0 Pg
+TTVB   49.950 1.0 Pg
+DHVB   55.740 1.0 Pg
+CBVB   58.210 1.0 Pg
+#        151
+MCVB    3.180 1.0 Pg
+TTVB   13.250 1.0 Pg
+CCVB   35.280 1.0 Pg
+HGVB   37.240 1.0 Pg
+#        152
+DBVB   43.730 1.0 Pg
+#        153
+DBVB   49.360 1.0 Pg
+TGVB   56.160 1.0 Pg
+HGVB   86.750 1.0 Pg
+#        154
+TIYB    4.970 1.0 Pg
+PLVB   13.550 1.0 Pg
+MTVB   19.560 1.0 Pg
+BGVB   19.700 1.0 Pg
+#        155
+MCVB    6.390 1.0 Pg
+#        156
+MLVB   11.880 1.0 Pg
+TGVB    2.800 1.0 Pg
+DBVB    9.770 1.0 Pg
+TTVB   17.810 1.0 Pg
+#        157
+TGVB    2.000 1.0 Pg
+DBVB    9.090 1.0 Pg
+TTVB   16.810 1.0 Pg
+#        158
+VTVB   72.770 1.0 Pg
+TTVB   76.870 1.0 Pg
+#        159
+HGVB   59.500 1.0 Pg
+#        160
+HBV    33.020 1.0 Pg
+HBV    33.950 1.0 Pg
+TLV    34.550 1.0 Pg
+PLV    40.360 1.0 Pg
+YTV    47.390 1.0 Pg
+YTV    47.880 1.0 Pg
+DHV    48.310 1.0 Pg
+SLV    49.950 1.0 Pg
+MTV    50.130 1.0 Pg
+DBV    60.400 1.0 Pg
+HNV    36.710 1.0 Pg
+#        161
+HBV    33.160 1.0 Pg
+HBV    34.940 1.0 Pg
+TLV    35.660 1.0 Pg
+PLV    42.040 1.0 Pg
+YTV    48.090 1.0 Pg
+DHV    49.410 1.0 Pg
+MTV    51.110 1.0 Pg
+SLV    49.370 1.0 Pg
+DBV    61.620 1.0 Pg
+HNV    37.920 1.0 Pg
+#        162
+HNV    33.890 1.0 Pg
+BVV    35.040 1.0 Pg
+PLV    37.660 1.0 Pg
+YTV    44.020 1.0 Pg
+DHV    45.880 1.0 Pg
+SLV    47.290 1.0 Pg
+MTV    47.570 1.0 Pg
+DBV    58.480 1.0 Pg
+#        163
+SLV    31.990 1.0 Pg
+DHV    31.650 1.0 Pg
+BVV    41.830 1.0 Pg
+TLV    44.280 1.0 Pg
+HBV    45.090 1.0 Pg
+MTV    47.090 1.0 Pg
+HNV    46.890 1.0 Pg
+BGV    48.340 1.0 Pg
+DSV    55.130 1.0 Pg
+YTV    57.390 1.0 Pg
+PLV    60.230 1.0 Pg
+#        164
+BVV    38.490 1.0 Pg
+TLV    40.290 1.0 Pg
+HBV    42.020 1.0 Pg
+HNV    43.460 1.0 Pg
+MTV    44.100 1.0 Pg
+BGV    45.430 1.0 Pg
+DSV    52.430 1.0 Pg
+YTV    54.260 1.0 Pg
+PLV    56.090 1.0 Pg
+#        165
+DHV    31.900 1.0 Pg
+DBV    35.640 1.0 Pg
+BVV    42.610 1.0 Pg
+TLV    44.340 1.0 Pg
+HBV    45.570 1.0 Pg
+MTV    48.100 1.0 Pg
+HNV    47.260 1.0 Pg
+YTV    57.640 1.0 Pg
+PLV    61.000 1.0 Pg
+#        166
+SLV    13.690 1.0 Pg
+DBV    21.710 1.0 Pg
+DBV    22.710 1.0 Pg
+TLV    24.930 1.0 Pg
+HBV    24.190 1.0 Pg
+HBV    26.290 1.0 Pg
+DSV    36.410 1.0 Pg
+BGV    42.770 1.0 Pg
+MTV    46.690 1.0 Pg
+PLV    48.930 1.0 Pg
+YTV    50.430 1.0 Pg
+#        167
+YTV     7.120 1.0 Pg
+BGV    15.450 1.0 Pg
+MTV    16.580 1.0 Pg
+#        168
+PLV    13.330 1.0 Pg
+BVV    33.530 1.0 Pg
+#        169
+SLV     4.300 1.0 Pg
+DBV    18.030 1.0 Pg
+DBV    19.690 1.0 Pg
+#        170
+TLV    30.000 1.0 Pg
+HBV    31.010 1.0 Pg
+SLV    35.050 1.0 Pg
+DBV    41.670 1.0 Pg
+#        171
+YTV     2.470 1.0 Pg
+MTV    12.110 1.0 Pg
+HNV    21.090 1.0 Pg
+#        172
+YTV     3.650 1.0 Pg
+BGV    12.450 1.0 Pg
+MTV    12.580 1.0 Pg
+DSV    19.800 1.0 Pg
+HNV    21.920 1.0 Pg
+#        173
+YTV     1.500 1.0 Pg
+PLV     7.190 1.0 Pg
+BGV    10.670 1.0 Pg
+MTV    10.780 1.0 Pg
+DSV    17.140 1.0 Pg
+HNV    20.140 1.0 Pg
+#        174
+YTV     6.150 1.0 Pg
+PLV     8.150 1.0 Pg
+BGV    15.160 1.0 Pg
+MTV    15.830 1.0 Pg
+#        175
+LCV    19.580 1.0 Pg
+LCV    19.980 1.0 Pg
+SMV    39.510 1.0 Pg
+#        176
+YTV     3.860 1.0 Pg
+PLV     6.180 1.0 Pg
+BGV     9.980 1.0 Pg
+MTV    11.580 1.0 Pg
+DSV    15.750 1.0 Pg
+DSV    15.910 1.0 Pg
+#        177
+YTV     4.020 1.0 Pg
+PLV     6.780 1.0 Pg
+BGV    12.990 1.0 Pg
+MTV    13.870 1.0 Pg
+#        178
+DSV     4.440 1.0 Pg
+HNV    11.790 1.0 Pg
+BGV    13.960 1.0 Pg
+YTV    14.930 1.0 Pg
+HBV    16.070 1.0 Pg
+BVV    17.270 1.0 Pg
+MTV    19.000 1.0 Pg
+#        179
+MTV     8.550 1.0 Pg
+BGV     8.840 1.0 Pg
+HNV    12.250 1.0 Pg
+BVV    12.830 1.0 Pg
+YTV    17.550 1.0 Pg
+#        180
+BVV     3.300 1.0 Pg
+HNV     7.180 1.0 Pg
+DSV    14.290 1.0 Pg
+#        181
+MTV     8.950 1.0 Pg
+BVV    12.950 1.0 Pg
+HNV    12.820 1.0 Pg
+YTV    17.580 1.0 Pg
+#        182
+MTV    10.340 1.0 Pg
+BGV    11.720 1.0 Pg
+BVV    13.300 1.0 Pg
+HNV    13.180 1.0 Pg
+YTV    19.930 1.0 Pg
+#        183
+MCV    35.060 1.0 Pg
+LAV    46.040 1.0 Pg
+KSV    46.390 1.0 Pg
+#        184
+TGV    32.840 1.0 Pg
+DBV    39.650 1.0 Pg
+BVV    45.660 1.0 Pg
+KSV    51.040 1.0 Pg
+MTV    49.910 1.0 Pg
+HBV    48.930 1.0 Pg
+HNV    50.640 1.0 Pg
+BGV    51.040 1.0 Pg
+DSV    58.110 1.0 Pg
+YTV    58.960 1.0 Pg
+PLV    62.360 1.0 Pg
+#        185
+SLV    35.980 1.0 Pg
+TGV    38.290 1.0 Pg
+MCV    41.680 1.0 Pg
+DBV    45.880 1.0 Pg
+LAV    53.370 1.0 Pg
+#        186
+DHV    22.280 1.0 Pg
+TDV    25.590 1.0 Pg
+MTV    27.880 1.0 Pg
+BGV    30.750 1.0 Pg
+BVV    32.080 1.0 Pg
+HNV    34.340 1.0 Pg
+YTV    37.260 1.0 Pg
+PLV    42.000 1.0 Pg
+#        187
+MTV    14.340 1.0 Pg
+BVV    16.020 1.0 Pg
+YTV    24.150 1.0 Pg
+#        188
+MTV    30.910 1.0 Pg
+YTV    32.030 1.0 Pg
+BGV    35.670 1.0 Pg
+PLV    38.480 1.0 Pg
+HNV    47.450 1.0 Pg
+DSV    48.290 1.0 Pg
+BVV    49.690 1.0 Pg
+#        189
+DSV     3.330 1.0 Pg
+HNV     9.380 1.0 Pg
+BVV    15.180 1.0 Pg
+#        190
+BVV     3.360 1.0 Pg
+HNV     7.060 1.0 Pg
+DSV    14.230 1.0 Pg
+#        191
+MTV    11.380 1.0 Pg
+BVV    11.160 1.0 Pg
+HNV    11.940 1.0 Pg
+#        192
+YTV    17.100 1.0 Pg
+DSV    30.090 1.0 Pg
+HNV    34.580 1.0 Pg
+#        193
+HNV    14.340 1.0 Pg
+HNV    14.770 1.0 Pg
+BVV    18.790 1.0 Pg
+BVV    20.060 1.0 Pg
+#        194
+DSV     5.280 1.0 Pg
+HNV    12.780 1.0 Pg
+BVV    18.250 1.0 Pg
+YTV    20.580 1.0 Pg
+YTV    21.020 1.0 Pg
+#        195
+DSV     2.670 1.0 Pg
+HNV     8.870 1.0 Pg
+BVV    14.500 1.0 Pg
+#        196
+DSV     3.530 1.0 Pg
+HNV     9.520 1.0 Pg
+BVV    15.080 1.0 Pg
+#        197
+DSV     2.780 1.0 Pg
+HNV     8.830 1.0 Pg
+BVV    14.810 1.0 Pg
+#        198
+YTV    15.920 1.0 Pg
+MTV    15.440 1.0 Pg
+BGV    19.550 1.0 Pg
+HNV    31.100 1.0 Pg
+#        199
+BVV     1.560 1.0 Pg
+HNV     5.500 1.0 Pg
+DSV    13.400 1.0 Pg
+MTV    19.840 1.0 Pg
+YTV    23.580 1.0 Pg
+#        200
+YTV     4.850 1.0 Pg
+PLV     6.400 1.0 Pg
+MTV    14.700 1.0 Pg
+#        201
+BGV     5.040 1.0 Pg
+MTV     6.730 1.0 Pg
+HNV    10.730 1.0 Pg
+BVV    13.340 1.0 Pg
+YTV    14.120 1.0 Pg
+DHV    14.970 1.0 Pg
+DSV    15.890 1.0 Pg
+PLV    16.370 1.0 Pg
+#        202
+TGV    36.310 1.0 Pg
+DHV    37.720 1.0 Pg
+DBV    41.480 1.0 Pg
+TDV    44.350 1.0 Pg
+BVV    48.430 1.0 Pg
+TLV    50.420 1.0 Pg
+KSV    51.090 1.0 Pg
+MTV    51.850 1.0 Pg
+HNV    52.800 1.0 Pg
+BGV    53.430 1.0 Pg
+DSV    60.990 1.0 Pg
+YTV    61.310 1.0 Pg
+PLV    65.110 1.0 Pg
+#        203
+DHV    26.170 1.0 Pg
+BVV    37.670 1.0 Pg
+MTV    40.200 1.0 Pg
+HNV    41.880 1.0 Pg
+DSV    50.290 1.0 Pg
+YTV    50.570 1.0 Pg
+PLV    53.370 1.0 Pg
+#        204
+DBV    40.550 1.0 Pg
+BVV    46.820 1.0 Pg
+TLV    49.070 1.0 Pg
+MTV    51.110 1.0 Pg
+HNV    51.350 1.0 Pg
+BGV    52.250 1.0 Pg
+DSV    59.610 1.0 Pg
+YTV    61.020 1.0 Pg
+PLV    63.850 1.0 Pg
+#        205
+DBV    41.770 1.0 Pg
+BVV    47.410 1.0 Pg
+TLV    50.280 1.0 Pg
+MTV    51.220 1.0 Pg
+HNV    52.530 1.0 Pg
+YTV    61.330 1.0 Pg
+DSV    60.740 1.0 Pg
+PLV    64.690 1.0 Pg
+#        206
+DSV    10.570 1.0 Pg
+DSV    11.170 1.0 Pg
+MTV    29.300 1.0 Pg
+#        207
+DSV     3.870 1.0 Pg
+HNV     7.630 1.0 Pg
+BVV    12.960 1.0 Pg
+#        208
+DSV     5.140 1.0 Pg
+HNV    11.130 1.0 Pg
+YTV    14.740 1.0 Pg
+BVV    17.150 1.0 Pg
+#        209
+BVV    40.600 1.0 Pg
+MTV    43.970 1.0 Pg
+HNV    45.370 1.0 Pg
+YTV    53.500 1.0 Pg
+DSV    53.780 1.0 Pg
+PLV    57.420 1.0 Pg
+#        210
+DBV    39.230 1.0 Pg
+BVV    45.480 1.0 Pg
+MTV    50.010 1.0 Pg
+HNV    50.570 1.0 Pg
+DSV    58.490 1.0 Pg
+YTV    60.130 1.0 Pg
+#        211
+DBV    38.950 1.0 Pg
+TDV    40.180 1.0 Pg
+BVV    44.030 1.0 Pg
+TLV    45.950 1.0 Pg
+MTV    48.280 1.0 Pg
+HNV    48.840 1.0 Pg
+BGV    49.420 1.0 Pg
+DSV    57.120 1.0 Pg
+YTV    58.190 1.0 Pg
+PLV    61.590 1.0 Pg
+#        212
+DBV    40.150 1.0 Pg
+BVV    45.340 1.0 Pg
+TLV    47.520 1.0 Pg
+MTV    48.500 1.0 Pg
+KSV    50.230 1.0 Pg
+HBV    48.210 1.0 Pg
+HNV    49.630 1.0 Pg
+YTV    58.690 1.0 Pg
+DSV    58.130 1.0 Pg
+PLV    62.090 1.0 Pg
+#        213
+DBV    35.330 1.0 Pg
+BVV    40.070 1.0 Pg
+MTV    45.390 1.0 Pg
+HNV    44.550 1.0 Pg
+HNV    45.270 1.0 Pg
+DSV    53.240 1.0 Pg
+YTV    55.200 1.0 Pg
+#        214
+DSV     3.780 1.0 Pg
+HNV     9.500 1.0 Pg
+BVV    15.440 1.0 Pg
+#        215
+DSV     4.190 1.0 Pg
+HNV    10.170 1.0 Pg
+BVV    15.500 1.0 Pg
+#        216
+MTV     9.860 1.0 Pg
+HNV    11.050 1.0 Pg
+BVV    11.060 1.0 Pg
+YTV    17.860 1.0 Pg
+DSV    17.860 1.0 Pg
+#        217
+DHV     7.240 1.0 Pg
+MTV    16.490 1.0 Pg
+HNV    17.610 1.0 Pg
+#        218
+MTV    11.860 1.0 Pg
+BVV    12.140 1.0 Pg
+HNV    13.540 1.0 Pg
+#        219
+BVV     3.040 1.0 Pg
+HNV     6.900 1.0 Pg
+DSV    14.030 1.0 Pg
+#        220
+BVV    61.830 1.0 Pg
+BGV    65.370 1.0 Pg
+HNV    65.790 1.0 Pg
+YTV    73.620 1.0 Pg
+DSV    74.380 1.0 Pg
+#        221
+BVV     2.950 1.0 Pg
+HNV     6.840 1.0 Pg
+DSV    13.890 1.0 Pg
+BGV    17.570 1.0 Pg
+#        222
+YTV     4.350 1.0 Pg
+PLV     7.510 1.0 Pg
+HNV    22.530 1.0 Pg
+#        223
+YTV     3.610 1.0 Pg
+PLV     5.290 1.0 Pg
+HNV    20.720 1.0 Pg
+#        224
+DHV     9.950 1.0 Pg
+TDV    11.330 1.0 Pg
+MTV    17.390 1.0 Pg
+MTV    18.200 1.0 Pg
+BVV    18.420 1.0 Pg
+BVV    18.900 1.0 Pg
+BGV    18.910 1.0 Pg
+HNV    20.140 1.0 Pg
+HNV    20.790 1.0 Pg
+PLV    30.500 1.0 Pg
+DBV    45.670 1.0 Pg
+#        225
+TGV    34.610 1.0 Pg
+DBV    40.600 1.0 Pg
+BVV    45.360 1.0 Pg
+MTV    49.210 1.0 Pg
+HBV    49.010 1.0 Pg
+HNV    50.470 1.0 Pg
+YTV    59.230 1.0 Pg
+DSV    58.370 1.0 Pg
+PLV    61.770 1.0 Pg
+#        226
+YTV     2.640 1.0 Pg
+PLV     5.440 1.0 Pg
+BGV     9.120 1.0 Pg
+MTV    10.810 1.0 Pg
+DSV    15.550 1.0 Pg
+HNV    17.610 1.0 Pg
+#        227
+YTV     4.840 1.0 Pg
+PLV     7.640 1.0 Pg
+BGV    13.800 1.0 Pg
+MTV    13.980 1.0 Pg
+BVV    27.300 1.0 Pg
+#        228
+DSV     7.750 1.0 Pg
+HNV    15.520 1.0 Pg
+PLV    15.520 1.0 Pg
+#        229
+DSV    50.560 1.0 Pg
+YTV    50.840 1.0 Pg
+PLV    54.210 1.0 Pg
+#        230
+YTV    10.620 1.0 Pg
+PLV    11.780 1.0 Pg
+HNV    27.940 1.0 Pg
+#        231
+BGV     7.940 1.0 Pg
+MTV     9.810 1.0 Pg
+BVV    10.090 1.0 Pg
+YTV    17.730 1.0 Pg
+PLV    18.860 1.0 Pg
+#        232
+YTV     7.350 1.0 Pg
+PLV     9.630 1.0 Pg
+HNV    24.380 1.0 Pg
+#        233
+YTV     1.150 1.0 Pg
+PLV     5.930 1.0 Pg
+MTV    10.510 1.0 Pg
+DSV    16.990 1.0 Pg
+HNV    18.270 1.0 Pg
+#        234
+YTV     7.550 1.0 Pg
+PLV     9.480 1.0 Pg
+MTV    16.680 1.0 Pg
+BVV    30.620 1.0 Pg
+#        235
+MTV    36.010 1.0 Pg
+YTV    40.780 1.0 Pg
+BGV    41.080 1.0 Pg
+PLV    46.620 1.0 Pg
+HNV    50.930 1.0 Pg
+BVV    52.520 1.0 Pg
+DSV    55.020 1.0 Pg
+HBV    56.200 1.0 Pg
+TGV    73.170 1.0 Pg
+DBV    81.690 1.0 Pg
+#        236
+YTV     2.730 1.0 Pg
+PLV     5.390 1.0 Pg
+BGV     9.050 1.0 Pg
+MTV    10.730 1.0 Pg
+DSV    16.090 1.0 Pg
+HNV    17.570 1.0 Pg
+TDV    20.000 1.0 Pg
+#        237
+TDV     3.550 1.0 Pg
+MTV    10.700 1.0 Pg
+BVV    11.830 1.0 Pg
+HNV    13.260 1.0 Pg
+YTV    20.050 1.0 Pg
+DSV    20.010 1.0 Pg
+PLV    21.620 1.0 Pg
+#        238
+YTV     7.050 1.0 Pg
+PLV     8.930 1.0 Pg
+MTV    16.500 1.0 Pg
+BVV    30.360 1.0 Pg
+#        239
+YTV    23.110 1.0 Pg
+YTV    24.000 1.0 Pg
+TDV    39.990 1.0 Pg
+DSV    40.270 1.0 Pg
+HNV    41.670 1.0 Pg
+#        240
+DSV     4.730 1.0 Pg
+HNV    12.380 1.0 Pg
+PLV    13.980 1.0 Pg
+#        241
+DSV     3.720 1.0 Pg
+HNV    11.550 1.0 Pg
+PLV    13.150 1.0 Pg
+#        242
+TDV    59.130 1.0 Pg
+MTV    66.700 1.0 Pg
+HNV    67.260 1.0 Pg
+DSV    75.670 1.0 Pg
+YTV    76.790 1.0 Pg
+PLV    79.870 1.0 Pg
+#        243
+YTV     4.460 1.0 Pg
+PLV     6.320 1.0 Pg
+#        244
+YTV    10.900 1.0 Pg
+PLV    13.320 1.0 Pg
+BGV    20.160 1.0 Pg
+MTV    19.880 1.0 Pg
+#        245
+YTV     1.580 1.0 Pg
+PLV     7.180 1.0 Pg
+BGV    10.800 1.0 Pg
+MTV    11.050 1.0 Pg
+DSV    18.170 1.0 Pg
+TDV    21.610 1.0 Pg
+HNV    20.100 1.0 Pg
+#        246
+TDV     3.700 1.0 Pg
+HNV    10.780 1.0 Pg
+BGV    12.540 1.0 Pg
+MTV    14.030 1.0 Pg
+#        247
+DBV    40.530 1.0 Pg
+TDV    43.920 1.0 Pg
+MTV    51.210 1.0 Pg
+HNV    52.050 1.0 Pg
+DSV    60.740 1.0 Pg
+YTV    60.460 1.0 Pg
+PLV    63.540 1.0 Pg
+BGV    53.170 1.0 Pg
+#        248
+LCV    22.550 1.0 Pg
+LCV    23.140 1.0 Pg
+TDV    34.010 1.0 Pg
+MTV    42.780 1.0 Pg
+HNV    41.290 1.0 Pg
+BGV    43.770 1.0 Pg
+DSV    49.760 1.0 Pg
+PLV    54.500 1.0 Pg
+#        249
+TDV    50.150 1.0 Pg
+BGV    61.710 1.0 Pg
+MTV    62.840 1.0 Pg
+DSV    63.120 1.0 Pg
+PLV    70.830 1.0 Pg
+#        250
+TDV    45.500 1.0 Pg
+BGV    56.120 1.0 Pg
+DSV    56.390 1.0 Pg
+MTV    57.530 1.0 Pg
+#        251
+BVV    72.960 1.0 Pg
+TDV    71.880 1.0 Pg
+MTV    83.620 1.0 Pg
+BGV    83.470 1.0 Pg
+DSV    86.200 1.0 Pg
+PLV    93.730 1.0 Pg
+#        252
+HNV     2.690 1.0 Pg
+DSV     7.700 1.0 Pg
+DSV     7.700 1.0 Pg
+TDV    11.600 1.0 Pg
+BGV    13.090 1.0 Pg
+DHV    17.330 1.0 Pg
+PLV    16.870 1.0 Pg
+MTV    17.420 1.0 Pg
+#        253
+DSV     3.080 1.0 Pg
+HNV     9.060 1.0 Pg
+BVV    14.420 1.0 Pg
+TDV    18.910 1.0 Pg
+#        254
+TDV     2.790 1.0 Pg
+BVV    11.650 1.0 Pg
+MTV    10.630 1.0 Pg
+#        255
+LCV    48.780 1.0 Pg
+HBV    68.420 1.0 Pg
+BTV    69.560 1.0 Pg
+#        256
+DSV     4.960 1.0 Pg
+HNV    10.900 1.0 Pg
+BVV    15.850 1.0 Pg
+TDV    20.610 1.0 Pg
+#        257
+DSV     4.980 1.0 Pg
+HNV    10.920 1.0 Pg
+BVV    15.870 1.0 Pg
+TDV    20.630 1.0 Pg
+#        258
+DSV     3.680 1.0 Pg
+HNV     8.660 1.0 Pg
+BVV    14.580 1.0 Pg
+PLV    15.640 1.0 Pg
+BGV    17.050 1.0 Pg
+TDV    18.780 1.0 Pg
+MTV    22.390 1.0 Pg
+#        259
+PLV    10.170 1.0 Pg
+MTV    15.240 1.0 Pg
+BGV    15.240 1.0 Pg
+#        260
+LCV    10.870 1.0 Pg
+LCV    12.650 1.0 Pg
+TGV    21.070 1.0 Pg
+TGV    22.040 1.0 Pg
+#        261
+DSV     1.990 1.0 Pg
+HNV     8.080 1.0 Pg
+BVV    14.210 1.0 Pg
+PLV    14.160 1.0 Pg
+BGV    15.580 1.0 Pg
+TDV    17.590 1.0 Pg
+#        262
+PLV    15.000 1.0 Pg
+#        263
+DHV    15.390 1.0 Pg
+MTV    34.480 1.0 Pg
+BGV    34.710 1.0 Pg
+DSV    38.990 1.0 Pg
+PLV    45.120 1.0 Pg
+#        264
+BVV     2.080 1.0 Pg
+HNV     7.200 1.0 Pg
+TDV     8.490 1.0 Pg
+DHV    10.270 1.0 Pg
+#        265
+BVV     2.110 1.0 Pg
+HNV     7.230 1.0 Pg
+TDV     8.520 1.0 Pg
+DHV    10.300 1.0 Pg
+#        266
+YTV     6.120 1.0 Pg
+PLV     8.390 1.0 Pg
+BGV    14.960 1.0 Pg
+MTV    15.530 1.0 Pg
+#        267
+YTV     6.130 1.0 Pg
+PLV     8.400 1.0 Pg
+BGV    14.970 1.0 Pg
+MTV    15.540 1.0 Pg
+#        268
+PLV    14.320 1.0 Pg
+MTV    28.420 1.0 Pg
+TDV    33.460 1.0 Pg
+DHV    42.140 1.0 Pg
+#        269
+MTV     4.260 1.0 Pg
+BGV     5.800 1.0 Pg
+TDV     8.800 1.0 Pg
+HNV    14.220 1.0 Pg
+BVV    16.750 1.0 Pg
+DHV    16.490 1.0 Pg
+PLV    17.510 1.0 Pg
+DSV    18.200 1.0 Pg
+#        270
+YTV     8.290 1.0 Pg
+PLV    10.210 1.0 Pg
+MTV    17.490 1.0 Pg
+TDV    27.780 1.0 Pg
+BVV    31.600 1.0 Pg
+#        271
+MTV     6.900 1.0 Pg
+BGV    10.700 1.0 Pg
+TDV    12.090 1.0 Pg
+YTV    16.450 1.0 Pg
+#        272
+YTV     2.140 1.0 Pg
+PLV     5.200 1.0 Pg
+BGV     8.710 1.0 Pg
+MTV    10.460 1.0 Pg
+DSV    15.260 1.0 Pg
+HNV    17.300 1.0 Pg
+TDV    19.220 1.0 Pg
+BVV    22.190 1.0 Pg
+#        273
+HNV     4.670 1.0 Pg
+BVV     7.680 1.0 Pg
+TDV     9.440 1.0 Pg
+DSV    10.840 1.0 Pg
+BGV    11.120 1.0 Pg
+DHV    15.070 1.0 Pg
+MTV    14.800 1.0 Pg
+#        274
+DSV     6.040 1.0 Pg
+HNV    12.220 1.0 Pg
+BVV    16.580 1.0 Pg
+TDV    21.710 1.0 Pg
+YTV    23.170 1.0 Pg
+#        275
+YTV     6.600 1.0 Pg
+PLV     8.700 1.0 Pg
+MTV    15.620 1.0 Pg
+BVV    29.400 1.0 Pg
+#        276
+DBV    37.030 1.0 Pg
+BVV    54.170 1.0 Pg
+HNV    59.100 1.0 Pg
+YTV    70.710 1.0 Pg
+#        277
+DSV     4.840 1.0 Pg
+HNV    10.660 1.0 Pg
+BVV    15.140 1.0 Pg
+PLV    16.840 1.0 Pg
+BGV    18.250 1.0 Pg
+TDV    20.240 1.0 Pg
+#        278
+YTV     2.850 1.0 Pg
+PLV     5.490 1.0 Pg
+MTV    12.580 1.0 Pg
+DSV    17.140 1.0 Pg
+#        279
+YTV     4.620 1.0 Pg
+PLV     8.860 1.0 Pg
+MTV    14.050 1.0 Pg
+BGV    14.860 1.0 Pg
+DSV    19.190 1.0 Pg
+#        280
+LCV    42.000 1.0 Pg
+DBV    53.380 1.0 Pg
+SLV    59.990 1.0 Pg
+#        281
+DBV    42.550 1.0 Pg
+LCV    47.520 1.0 Pg
+SLV    56.310 1.0 Pg
+#        282
+DSV     3.710 1.0 Pg
+HNV     7.600 1.0 Pg
+BVV    12.830 1.0 Pg
+PLV    17.030 1.0 Pg
+TDV    18.430 1.0 Pg
+YTV    20.400 1.0 Pg
+#        283
+PLV     7.370 1.0 Pg
+DSV    18.750 1.0 Pg
+#        284
+LCV     9.110 1.0 Pg
+DBV    10.630 1.0 Pg
+SLV    13.050 1.0 Pg
+#        285
+LCV     8.100 1.0 Pg
+DBV     9.520 1.0 Pg
+DBV     9.860 1.0 Pg
+SLV    11.920 1.0 Pg
+#        286
+YTV    12.350 1.0 Pg
+PLV    14.370 1.0 Pg
+MTV    21.170 1.0 Pg
+#        287
+LAV     7.720 1.0 Pg
+MCV    15.040 1.0 Pg
+HBV    16.630 1.0 Pg
+#        288
+DBV    41.390 1.0 Pg
+SLV    47.740 1.0 Pg
+TTV    50.070 1.0 Pg
+#        289
+YTV     2.750 1.0 Pg
+PLV     6.130 1.0 Pg
+MTV    12.570 1.0 Pg
+#        290
+YTV     0.970 1.0 Pg
+PLV     6.320 1.0 Pg
+MTV     9.940 1.0 Pg
+DSV    16.740 1.0 Pg
+HNV    18.160 1.0 Pg
+#        291
+YTV     0.970 1.0 Pg
+PLV     6.320 1.0 Pg
+MTV     9.940 1.0 Pg
+DSV    16.740 1.0 Pg
+HNV    18.160 1.0 Pg
+#        292
+BVV     7.990 1.0 Pg
+HNV     8.670 1.0 Pg
+MTV    13.720 1.0 Pg
+#        293
+DBV    10.780 1.0 Pg
+LCV    22.490 1.0 Pg
+LAV    38.630 1.0 Pg
+#        294
+DBV     0.910 1.0 Pg
+LCV    12.360 1.0 Pg
+SLV    16.910 1.0 Pg
+TTV    25.210 1.0 Pg
+#        295
+SLV     4.530 1.0 Pg
+TTV     7.610 1.0 Pg
+TGV    10.930 1.0 Pg
+#        296
+YTV     4.120 1.0 Pg
+PLV     3.160 1.0 Pg
+DSV    16.350 1.0 Pg
+#        297
+YTV     5.130 1.0 Pg
+PLV     7.840 1.0 Pg
+MTV    14.410 1.0 Pg
+#        298
+YTV     4.110 1.0 Pg
+MTV    13.580 1.0 Pg
+DSV    20.420 1.0 Pg
+HNV    22.960 1.0 Pg
+#        299
+YTV     2.840 1.0 Pg
+PLV     7.310 1.0 Pg
+MTV    12.110 1.0 Pg
+DSV    18.940 1.0 Pg
+HNV    20.970 1.0 Pg
+#        300
+DSV     1.490 1.0 Pg
+HNV     8.010 1.0 Pg
+BVV    13.910 1.0 Pg
+#        301
+PLV     7.790 1.0 Pg
+MTV    12.000 1.0 Pg
+DSV    18.830 1.0 Pg
+#        302
+HNV     6.030 1.0 Pg
+DSV     8.570 1.0 Pg
+BVV    11.630 1.0 Pg
+#        303
+MTV    10.190 1.0 Pg
+HNV    12.710 1.0 Pg
+BVV    12.230 1.0 Pg
+YTV    18.700 1.0 Pg
+DSV    19.440 1.0 Pg
+#        304
+MTV    10.910 1.0 Pg
+BVV    10.900 1.0 Pg
+HNV    11.260 1.0 Pg
+DSV    18.430 1.0 Pg
+YTV    18.510 1.0 Pg
+#        305
+DSV     2.970 1.0 Pg
+HNV     8.220 1.0 Pg
+BVV    13.660 1.0 Pg
+#        306
+DSV     1.630 1.0 Pg
+HNV     7.970 1.0 Pg
+BVV    14.190 1.0 Pg
+#        307
+DSV     3.930 1.0 Pg
+BVV    14.750 1.0 Pg
+PLV    15.540 1.0 Pg
+#        308
+YTV     1.520 1.0 Pg
+PLV     6.870 1.0 Pg
+MTV    11.320 1.0 Pg
+DSV    18.130 1.0 Pg
+#        309
+DSV     3.310 1.0 Pg
+BVV    13.920 1.0 Pg
+YTV    19.590 1.0 Pg
+#        310
+LCV    22.050 1.0 Pg
+DBV    23.420 1.0 Pg
+SLV    37.680 1.0 Pg
+#        311
+DBV     6.570 1.0 Pg
+SLV    10.010 1.0 Pg
+LCV    13.160 1.0 Pg
+#        312
+MTV    10.940 1.0 Pg
+BVV    10.680 1.0 Pg
+HNV    10.820 1.0 Pg
+YTV    18.140 1.0 Pg
+DSV    18.410 1.0 Pg
+#        313
+DSV     2.980 1.0 Pg
+HNV     9.020 1.0 Pg
+BVV    14.470 1.0 Pg
+YTV    20.250 1.0 Pg
+#        314
+YTV    15.900 1.0 Pg
+PLV    17.050 1.0 Pg
+HNV    33.580 1.0 Pg
+#        316
+YTV     4.040 1.0 Pg
+PLV     5.820 1.0 Pg
+MTV    14.170 1.0 Pg
+#        317
+MTV    10.420 1.0 Pg
+BVV    12.210 1.0 Pg
+HNV    12.540 1.0 Pg
+#        318
+MTV    11.830 1.0 Pg
+BVV    12.950 1.0 Pg
+HNV    13.950 1.0 Pg
+#        319
+YTV     5.780 1.0 Pg
+PLV     8.120 1.0 Pg
+BVV    29.050 1.0 Pg
+#        320
+DBV    12.090 1.0 Pg
+SLV    17.360 1.0 Pg
+SLV    18.440 1.0 Pg
+LCV    25.030 1.0 Pg
+BVV    40.170 1.0 Pg
+HNV    45.760 1.0 Pg
+DSV    50.850 1.0 Pg
+BGV    56.140 1.0 Pg
+MTV    59.210 1.0 Pg
+PLV    62.690 1.0 Pg
+YTV    64.500 1.0 Pg
+#        321
+BVV     3.980 1.0 Pg
+HNV     6.480 1.0 Pg
+DSV    13.470 1.0 Pg
+#        322
+SLV    53.680 1.0 Pg
+#        323
+DBV    45.150 1.0 Pg
+LCV    51.950 1.0 Pg
+SLV    58.610 1.0 Pg
+#        324
+DBV    46.180 1.0 Pg
+HNV    91.170 1.0 Pg
+#        325
+BVV    78.440 1.0 Pg
+HNV    83.360 1.0 Pg
+DSV    87.670 1.0 Pg
+MTV    95.630 1.0 Pg
+YTV   100.830 1.0 Pg
+#        326
+BVV    75.100 1.0 Pg
+HNV    83.490 1.0 Pg
+DSV    89.060 1.0 Pg
+#        327
+BVV    79.520 1.0 Pg
+HNV    84.630 1.0 Pg
+DSV    89.490 1.0 Pg
+#        328
+YTV     7.530 1.0 Pg
+BGV    16.130 1.0 Pg
+MTV    17.260 1.0 Pg
+DSV    20.070 1.0 Pg
+#        329
+DSV     3.680 1.0 Pg
+HNV     9.800 1.0 Pg
+BVV    14.470 1.0 Pg
+YTV    21.060 1.0 Pg
+MTV    22.280 1.0 Pg
+#        330
+DBV    44.490 1.0 Pg
+SLV    56.730 1.0 Pg
+BVV    78.580 1.0 Pg
+HNV    85.040 1.0 Pg
+MTV    89.860 1.0 Pg
+DSV    92.980 1.0 Pg
+#        331
+DBV    40.970 1.0 Pg
+BVV    77.360 1.0 Pg
+HNV    83.440 1.0 Pg
+MTV    89.290 1.0 Pg
+DSV    91.170 1.0 Pg
+#        332
+BVV    48.700 1.0 Pg
+HNV    56.270 1.0 Pg
+BGV    61.900 1.0 Pg
+MTV    62.860 1.0 Pg
+DSV    62.420 1.0 Pg
+PLV    71.090 1.0 Pg
+#        333
+PLV    10.820 1.0 Pg
+MTV    18.700 1.0 Pg
+DSV    23.410 1.0 Pg
+#        334
+DBV    38.980 1.0 Pg
+SLV    41.010 1.0 Pg
+MTV    62.360 1.0 Pg
+HNV    61.630 1.0 Pg
+BGV    63.180 1.0 Pg
+DSV    68.290 1.0 Pg
+PLV    73.540 1.0 Pg
+#        335
+DSV     4.090 1.0 Pg
+PLV     9.780 1.0 Pg
+HNV    12.070 1.0 Pg
+BGV    14.720 1.0 Pg
+#        336
+SLV     3.580 1.0 Pg
+BVV    24.400 1.0 Pg
+DSV    36.300 1.0 Pg
+BGV    38.190 1.0 Pg
+MTV    40.380 1.0 Pg
+PLV    45.810 1.0 Pg
+#        337
+PLV     7.660 1.0 Pg
+BGV    11.060 1.0 Pg
+MTV    11.640 1.0 Pg
+DSV    18.370 1.0 Pg
+#        338
+DBV    45.280 1.0 Pg
+LCV    53.980 1.0 Pg
+SLV    58.900 1.0 Pg
+#        339
+HNV    88.610 1.0 Pg
+MTV    92.870 1.0 Pg
+DSV    96.180 1.0 Pg
+#        340
+DBV    43.290 1.0 Pg
+LCV    52.340 1.0 Pg
+SLV    57.160 1.0 Pg
+TTV    66.960 1.0 Pg
+#        341
+DBV    41.250 1.0 Pg
+LCV    49.660 1.0 Pg
+SLV    55.910 1.0 Pg
+TTV    67.680 1.0 Pg
+LAV    81.230 1.0 Pg
+#        342
+DBV    47.980 1.0 Pg
+LCV    55.430 1.0 Pg
+SLV    61.880 1.0 Pg
+#        343
+DBV    14.050 1.0 Pg
+SLV    19.290 1.0 Pg
+SLV    20.340 1.0 Pg
+LAV    40.310 1.0 Pg
+#        344
+LCV    40.830 1.0 Pg
+TTV    49.420 1.0 Pg
+SLV    51.560 1.0 Pg
+DBV    53.180 1.0 Pg
+MTV    62.460 1.0 Pg
+BGV    65.060 1.0 Pg
+HNV    65.530 1.0 Pg
+DSV    72.950 1.0 Pg
+PLV    75.680 1.0 Pg
+LAV    76.050 1.0 Pg
+#        345
+DBV    43.020 1.0 Pg
+LCV    51.650 1.0 Pg
+SLV    58.320 1.0 Pg
+#        346
+LCV    43.680 1.0 Pg
+TTV    53.350 1.0 Pg
+SLV    55.410 1.0 Pg
+MTV    67.530 1.0 Pg
+BGV    68.160 1.0 Pg
+HNV    69.660 1.0 Pg
+DSV    77.610 1.0 Pg
+PLV    79.790 1.0 Pg
+#        347
+DBV     1.880 1.0 Pg
+LCV    13.200 1.0 Pg
+SLV    17.910 1.0 Pg
+#        348
+MTV    49.350 1.0 Pg
+BGV    53.830 1.0 Pg
+HNV    57.450 1.0 Pg
+PLV    64.190 1.0 Pg
+DSV    64.500 1.0 Pg
+#        349
+DBV    45.650 1.0 Pg
+LCV    53.430 1.0 Pg
+SLV    59.550 1.0 Pg
+#        350
+LCV    38.930 1.0 Pg
+TTV    46.870 1.0 Pg
+MTV    60.780 1.0 Pg
+HNV    63.090 1.0 Pg
+DSV    70.270 1.0 Pg
+PLV    74.330 1.0 Pg
+BGV    62.370 1.0 Pg
+DBV    50.450 1.0 Pg
+#        351
+TTV    48.460 1.0 Pg
+SLV    49.070 1.0 Pg
+DBV    51.300 1.0 Pg
+DBV    52.030 1.0 Pg
+MTV    61.820 1.0 Pg
+BGV    63.190 1.0 Pg
+HNV    64.590 1.0 Pg
+DSV    71.860 1.0 Pg
+PLV    76.440 1.0 Pg
+LAV    75.310 1.0 Pg
+#        352
+DBV    14.740 1.0 Pg
+SLV    20.470 1.0 Pg
+LAV    40.440 1.0 Pg
+#        353
+SLV    52.830 1.0 Pg
+DBV    52.670 1.0 Pg
+MTV    63.140 1.0 Pg
+BGV    65.090 1.0 Pg
+HNV    64.890 1.0 Pg
+YTV    73.290 1.0 Pg
+DSV    73.390 1.0 Pg
+PLV    76.520 1.0 Pg
+#        354
+DSV     5.160 1.0 Pg
+HNV    11.430 1.0 Pg
+PLV    16.110 1.0 Pg
+BGV    18.640 1.0 Pg
+#        355
+YTV    33.010 1.0 Pg
+DSV    34.050 1.0 Pg
+PLV    36.320 1.0 Pg
+#        356
+LCV     4.290 1.0 Pg
+DBV    10.810 1.0 Pg
+SLV    19.760 1.0 Pg
+SLV    21.210 1.0 Pg
+#        357
+MTV     8.290 1.0 Pg
+HNV    10.760 1.0 Pg
+YTV    15.610 1.0 Pg
+#        358
+DSV     3.890 1.0 Pg
+HNV    10.130 1.0 Pg
+PLV    16.160 1.0 Pg
+#        359
+DSV     8.490 1.0 Pg
+HNV    14.830 1.0 Pg
+PLV    19.300 1.0 Pg
+#        360
+DSV     8.160 1.0 Pg
+HNV    15.830 1.0 Pg
+PLV    16.690 1.0 Pg
+#        361
+DSV     4.130 1.0 Pg
+HNV     9.880 1.0 Pg
+PLV    16.240 1.0 Pg
+YTV    21.140 1.0 Pg
+#        362
+BVV    54.060 1.0 Pg
+HNV    60.580 1.0 Pg
+MTV    65.940 1.0 Pg
+DSV    67.750 1.0 Pg
+YTV    74.320 1.0 Pg
+PLV    76.110 1.0 Pg
+#        363
+MTV    10.620 1.0 Pg
+BVV    11.470 1.0 Pg
+HNV    11.900 1.0 Pg
+#        364
+HNV     3.880 1.0 Pg
+BVV     6.050 1.0 Pg
+MTV    13.890 1.0 Pg
+#        365
+YTV     7.210 1.0 Pg
+PLV     9.300 1.0 Pg
+BVV    30.540 1.0 Pg
+#        366
+HNV     9.350 1.0 Pg
+BVV    14.800 1.0 Pg
+PLV    14.790 1.0 Pg
+#        367
+MTV     9.580 1.0 Pg
+HNV     9.790 1.0 Pg
+DSV    16.450 1.0 Pg
+#        368
+HNV     4.010 1.0 Pg
+DSV     7.440 1.0 Pg
+BVV     8.920 1.0 Pg
+#        369
+DSV     2.720 1.0 Pg
+HNV     8.520 1.0 Pg
+MTV    20.530 1.0 Pg
+#        370
+DSV     4.160 1.0 Pg
+HNV    10.180 1.0 Pg
+PLV    16.460 1.0 Pg
+#        371
+BVV     8.430 1.0 Pg
+HNV    10.550 1.0 Pg
+DSV    14.830 1.0 Pg
+#        372
+HNV     4.000 1.0 Pg
+DSV     7.330 1.0 Pg
+BVV     8.840 1.0 Pg
+#        373
+DSV     2.240 1.0 Pg
+BVV    13.730 1.0 Pg
+PLV    14.650 1.0 Pg
+YTV    19.820 1.0 Pg
+MTV    20.670 1.0 Pg
+#        374
+DBV     8.910 1.0 Pg
+LCV     9.890 1.0 Pg
+TTV    17.490 1.0 Pg
+#        375
+DSV     2.530 1.0 Pg
+HNV     8.390 1.0 Pg
+MTV    20.400 1.0 Pg
+#        376
+HNV     4.350 1.0 Pg
+BVV     4.510 1.0 Pg
+DSV    11.240 1.0 Pg
+MTV    18.750 1.0 Pg
+#        377
+HNV     4.040 1.0 Pg
+BVV     4.170 1.0 Pg
+DSV    10.930 1.0 Pg
+#        378
+HNV     4.350 1.0 Pg
+BVV     4.440 1.0 Pg
+DSV    11.280 1.0 Pg
+#        379
+LCV    53.060 1.0 Pg
+SLV    57.600 1.0 Pg
+TTV    67.890 1.0 Pg
+MCV    69.200 1.0 Pg
+#        380
+DSV     3.210 1.0 Pg
+HNV     9.480 1.0 Pg
+BVV    14.850 1.0 Pg
+BGV    17.060 1.0 Pg
+#        381
+DSV     2.460 1.0 Pg
+HNV     8.160 1.0 Pg
+PLV    12.770 1.0 Pg
+BVV    14.220 1.0 Pg
+#        382
+SLV    16.810 1.0 Pg
+TGV    25.620 1.0 Pg
+TGV    26.340 1.0 Pg
+#        383
+DSV    33.620 1.0 Pg
+BVV    45.760 1.0 Pg
+#        384
+PLV    10.800 1.0 Pg
+BVV    29.550 1.0 Pg
+DHV    33.740 1.0 Pg
+#        385
+DSV     3.330 1.0 Pg
+BVV    14.040 1.0 Pg
+PLV    14.820 1.0 Pg
+BGV    15.820 1.0 Pg
+#        386
+DHV    10.370 1.0 Pg
+BGV    11.780 1.0 Pg
+BVV    13.500 1.0 Pg
+DSV    21.760 1.0 Pg
+#        387
+DHV    58.090 1.0 Pg
+BVV    67.740 1.0 Pg
+BGV    75.420 1.0 Pg
+#        388
+DHV    31.520 1.0 Pg
+BVV    43.060 1.0 Pg
+BGV    49.250 1.0 Pg
+DSV    55.920 1.0 Pg
+#        389
+BGV    18.370 1.0 Pg
+DHV    37.230 1.0 Pg
+#        390
+TGV     3.480 1.0 Pg
+LCV     8.540 1.0 Pg
+DBV    10.230 1.0 Pg
+SLV    11.240 1.0 Pg
+#        391
+TGV    30.040 1.0 Pg
+MTV    57.630 1.0 Pg
+DSV    63.710 1.0 Pg
+#        392
+HNV    43.570 1.0 Pg
+BGV    49.170 1.0 Pg
+PLV    59.170 1.0 Pg
+#        393
+TDV     4.220 1.0 Pg
+BGV    10.420 1.0 Pg
+DHV    10.720 1.0 Pg
+HNV    12.720 1.0 Pg
+#        394
+TDV     3.100 1.0 Pg
+DHV     9.100 1.0 Pg
+BGV    11.500 1.0 Pg
+HNV    12.100 1.0 Pg
+#        395
+TDV    27.720 1.0 Pg
+HNV    28.480 1.0 Pg
+BGV    37.310 1.0 Pg
+PLV    44.780 1.0 Pg
+#        396
+TQV     8.020 1.0 Pg
+#        397
+DHV    41.740 1.0 Pg
+TDV    50.440 1.0 Pg
+HNV    52.340 1.0 Pg
+BGV    60.330 1.0 Pg
+PLV    68.850 1.0 Pg
+#        398
+DHV    40.900 1.0 Pg
+TDV    48.300 1.0 Pg
+HNV    55.290 1.0 Pg
+BGV    59.710 1.0 Pg
+PLV    69.790 1.0 Pg
+#        399
+BGV    39.970 1.0 Pg
+PLV    43.370 1.0 Pg
+#        400
+DHV    11.560 1.0 Pg
+HNV    15.460 1.0 Pg
+TDV    15.790 1.0 Pg
+PLV    31.700 1.0 Pg
+#        401
+BGV     5.280 1.0 Pg
+HNV     8.100 1.0 Pg
+TDV    10.420 1.0 Pg
+PLV    12.210 1.0 Pg
+DHV    18.560 1.0 Pg
+#        402
+DHV     4.060 1.0 Pg
+TDV    11.860 1.0 Pg
+PLV    32.950 1.0 Pg
+#        403
+DHV    36.780 1.0 Pg
+HNV    41.290 1.0 Pg
+TDV    42.290 1.0 Pg
+BGV    51.050 1.0 Pg
+PLV    56.160 1.0 Pg
+#        404
+BGV    41.580 1.0 Pg
+HNV    42.010 1.0 Pg
+#        405
+DHV    11.420 1.0 Pg
+HNV    15.400 1.0 Pg
+TDV    15.660 1.0 Pg
+PLV    31.620 1.0 Pg
+#        406
+BGV    31.710 1.0 Pg
+PLV    41.880 1.0 Pg
+#        407
+DHV    11.690 1.0 Pg
+BGV    28.590 1.0 Pg
+PLV    37.050 1.0 Pg
+#        408
+HNV     9.430 1.0 Pg
+PLV    15.990 1.0 Pg
+BGV    17.180 1.0 Pg
+#        409
+TDV     4.320 1.0 Pg
+BGV    10.410 1.0 Pg
+DHV    10.950 1.0 Pg
+HNV    13.530 1.0 Pg
+#        410
+DHV    11.140 1.0 Pg
+HNV    15.290 1.0 Pg
+TDV    15.380 1.0 Pg
+#        411
+BGV     6.540 1.0 Pg
+TDV     9.180 1.0 Pg
+HNV    15.010 1.0 Pg
+DHV    16.930 1.0 Pg
+PLV    17.810 1.0 Pg
+#        412
+DHV    17.070 1.0 Pg
+TDV    21.770 1.0 Pg
+PLV    37.020 1.0 Pg
+#        413
+HBV    12.200 1.0 Pg
+DHV    12.600 1.0 Pg
+SPV    29.470 1.0 Pg
+PLV    32.790 1.0 Pg
+#        414
+BGV     5.460 1.0 Pg
+HNV    13.500 1.0 Pg
+HNV    14.340 1.0 Pg
+BVV    16.280 1.0 Pg
+PLV    15.980 1.0 Pg
+#        415
+HNV    13.130 1.0 Pg
+DHV    17.950 1.0 Pg
+TDV    18.520 1.0 Pg
+#        416
+TDV     4.220 1.0 Pg
+BGV    10.340 1.0 Pg
+DHV    10.850 1.0 Pg
+#        417
+TDV    54.450 1.0 Pg
+BVV    54.060 1.0 Pg
+HNV    61.160 1.0 Pg
+BGV    64.620 1.0 Pg
+#        418
+DHV    58.150 1.0 Pg
+TDV    65.970 1.0 Pg
+HNV    72.160 1.0 Pg
+BGV    76.850 1.0 Pg
+#        419
+SPV    10.550 1.0 Pg
+#        420
+TDV     4.040 1.0 Pg
+DHV     9.520 1.0 Pg
+BGV    11.760 1.0 Pg
+BVV    12.230 1.0 Pg
+HNV    13.790 1.0 Pg
+#        421
+DHV    41.770 1.0 Pg
+TDV    42.940 1.0 Pg
+BGV    46.110 1.0 Pg
+#        422
+TDV    62.880 1.0 Pg
+BVV    67.710 1.0 Pg
+BGV    69.090 1.0 Pg
+HNV    71.800 1.0 Pg
+#        424
+BVV    11.560 1.0 Pg
+PLV    31.100 1.0 Pg
+DBV    35.730 1.0 Pg
+#        425
+DHV     3.510 1.0 Pg
+TDV    11.280 1.0 Pg
+BVV    12.090 1.0 Pg
+PLV    31.720 1.0 Pg
+#        426
+DHV     4.810 1.0 Pg
+TDV    12.900 1.0 Pg
+BVV    13.510 1.0 Pg
+#        427
+DHV    40.180 1.0 Pg
+BVV    46.040 1.0 Pg
+TDV    48.760 1.0 Pg
+HNV    51.810 1.0 Pg
+BGV    59.020 1.0 Pg
+PLV    69.630 1.0 Pg
+#        428
+PLV     6.910 1.0 Pg
+BGV     9.650 1.0 Pg
+LNV     9.960 1.0 Pg
+DSV    16.460 1.0 Pg
+DSV    17.880 1.0 Pg
+HNV    18.890 1.0 Pg
+DHV    28.670 1.0 Pg
+#        429
+DHV    10.770 1.0 Pg
+BGV    10.310 1.0 Pg
+HNV    12.990 1.0 Pg
+DSV    19.900 1.0 Pg
+#        430
+BVV    26.350 1.0 Pg
+HNV    32.800 1.0 Pg
+LNV    39.070 1.0 Pg
+DSV    39.430 1.0 Pg
+#        431
+DHV    10.260 1.0 Pg
+LNV    28.220 1.0 Pg
+DSV    33.580 1.0 Pg
+#        432
+LNV    13.950 1.0 Pg
+HNV    19.580 1.0 Pg
+PLV    20.290 1.0 Pg
+DHV    19.540 1.0 Pg
+#        433
+DBV     9.270 1.0 Pg
+SPV    15.450 1.0 Pg
+DHV    36.300 1.0 Pg
+HNV    48.800 1.0 Pg
+LNV    55.400 1.0 Pg
+DSV    56.030 1.0 Pg
+PLV    63.990 1.0 Pg
+#        434
+LNV     9.450 1.0 Pg
+HNV    13.860 1.0 Pg
+DHV    16.400 1.0 Pg
+PLV    17.320 1.0 Pg
+DSV    18.590 1.0 Pg
+#        435
+DHV    35.940 1.0 Pg
+BVV    44.040 1.0 Pg
+HNV    50.100 1.0 Pg
+LNV    56.130 1.0 Pg
+DSV    57.960 1.0 Pg
+#        436
+DBV     0.980 1.0 Pg
+SPV    23.130 1.0 Pg
+HNV    47.560 1.0 Pg
+DSV    54.240 1.0 Pg
+LNV    55.400 1.0 Pg
+PLV    64.420 1.0 Pg
+#        437
+BVV    11.060 1.0 Pg
+HNV    11.890 1.0 Pg
+LNV    11.870 1.0 Pg
+#        438
+BVV     9.970 1.0 Pg
+HNV    14.560 1.0 Pg
+DHV    16.200 1.0 Pg
+DSV    19.850 1.0 Pg
+#        439
+BVV    15.380 1.0 Pg
+DHV    17.770 1.0 Pg
+HNV    20.840 1.0 Pg
+#        440
+DHV    27.700 1.0 Pg
+LNV    29.830 1.0 Pg
+BVV    33.720 1.0 Pg
+PLV    34.630 1.0 Pg
+DSV    38.820 1.0 Pg
+#        441
+HNV     5.190 1.0 Pg
+LNV     7.620 1.0 Pg
+BVV     8.310 1.0 Pg
+DSV    11.580 1.0 Pg
+DHV    14.430 1.0 Pg
+PLV    16.680 1.0 Pg
+#        442
+DHV    12.490 1.0 Pg
+HNV    17.610 1.0 Pg
+PLV    33.540 1.0 Pg
+YTV    35.080 1.0 Pg
+#        443
+TDV     4.170 1.0 Pg
+DHV    10.730 1.0 Pg
+BVV    12.750 1.0 Pg
+HNV    12.990 1.0 Pg
+YTV    19.270 1.0 Pg
+#        444
+BVV    20.190 1.0 Pg
+HNV    21.360 1.0 Pg
+DSV    21.290 1.0 Pg
+PLV    33.850 1.0 Pg
+YTV    37.590 1.0 Pg
+#        445
+DHV    33.820 1.0 Pg
+BVV    39.820 1.0 Pg
+TDV    42.400 1.0 Pg
+HNV    46.230 1.0 Pg
+BGV    53.150 1.0 Pg
+DSV    53.220 1.0 Pg
+MTV    54.370 1.0 Pg
+YTV    62.210 1.0 Pg
+PLV    62.550 1.0 Pg
+#        446
+DHV    38.740 1.0 Pg
+TDV    47.050 1.0 Pg
+BVV    47.440 1.0 Pg
+HNV    53.070 1.0 Pg
+MTV    58.110 1.0 Pg
+BGV    57.590 1.0 Pg
+DSV    61.730 1.0 Pg
+YTV    66.450 1.0 Pg
+PLV    68.700 1.0 Pg
+#        447
+BVV    16.730 1.0 Pg
+DHV    17.870 1.0 Pg
+HNV    22.860 1.0 Pg
+TDV    23.470 1.0 Pg
+MTV    35.860 1.0 Pg
+PLV    39.700 1.0 Pg
+YTV    40.970 1.0 Pg
+#        448
+DHV    29.670 1.0 Pg
+TDV    38.100 1.0 Pg
+BVV    38.540 1.0 Pg
+HNV    44.500 1.0 Pg
+MTV    49.000 1.0 Pg
+BGV    49.100 1.0 Pg
+DSV    52.250 1.0 Pg
+YTV    58.170 1.0 Pg
+#        449
+BVV    35.270 1.0 Pg
+TDV    35.460 1.0 Pg
+HNV    41.240 1.0 Pg
+BGV    46.200 1.0 Pg
+MTV    46.470 1.0 Pg
+DSV    49.410 1.0 Pg
+YTV    55.120 1.0 Pg
+PLV    56.480 1.0 Pg
+#        450
+DHV    32.190 1.0 Pg
+TDV    40.240 1.0 Pg
+BVV    42.940 1.0 Pg
+HNV    48.320 1.0 Pg
+MTV    49.290 1.0 Pg
+BGV    50.210 1.0 Pg
+DSV    56.760 1.0 Pg
+YTV    58.770 1.0 Pg
+#        451
+DHV     9.290 1.0 Pg
+TDV    10.610 1.0 Pg
+MTV    17.300 1.0 Pg
+BVV    17.680 1.0 Pg
+BVV    18.150 1.0 Pg
+BGV    18.500 1.0 Pg
+HNV    19.800 1.0 Pg
+HNV    20.610 1.0 Pg
+PLV    30.130 1.0 Pg
+#        452
+BVV    16.370 1.0 Pg
+BVV    17.150 1.0 Pg
+DSV    19.080 1.0 Pg
+BGV    29.360 1.0 Pg
+YTV    35.360 1.0 Pg
+#        453
+BVV    28.680 1.0 Pg
+DHV    28.530 1.0 Pg
+HNV    33.600 1.0 Pg
+DSV    39.210 1.0 Pg
+BGV    44.420 1.0 Pg
+MTV    46.800 1.0 Pg
+PLV    49.930 1.0 Pg
+YTV    51.560 1.0 Pg
+#        454
+DHV    34.010 1.0 Pg
+BVV    34.910 1.0 Pg
+HNV    39.760 1.0 Pg
+TDV    41.360 1.0 Pg
+DSV    45.990 1.0 Pg
+BGV    50.350 1.0 Pg
+MTV    54.080 1.0 Pg
+PLV    56.690 1.0 Pg
+YTV    58.390 1.0 Pg
+#        455
+BVV     9.960 1.0 Pg
+DHV    11.970 1.0 Pg
+HNV    15.730 1.0 Pg
+HNV    16.000 1.0 Pg
+TDV    16.530 1.0 Pg
+PLV    32.340 1.0 Pg
+YTV    33.460 1.0 Pg
+#        456
+DHV    55.220 1.0 Pg
+TDV    63.350 1.0 Pg
+BVV    66.430 1.0 Pg
+HNV    71.770 1.0 Pg
+MTV    72.050 1.0 Pg
+BGV    73.300 1.0 Pg
+DSV    79.900 1.0 Pg
+YTV    81.810 1.0 Pg
+#        457
+MCV     9.830 1.0 Pg
+MCV    10.000 1.0 Pg
+TTV    14.480 1.0 Pg
+TGV    19.780 1.0 Pg
+TGV    20.320 1.0 Pg
+#        458
+THV    12.320 1.0 Pg
+TLV    30.520 1.0 Pg
+#        459
+BVV    45.820 1.0 Pg
+HNV    49.120 1.0 Pg
+YTV    51.230 1.0 Pg
+#        460
+TDV     4.810 1.0 Pg
+DHV    10.110 1.0 Pg
+MTV    11.330 1.0 Pg
+BGV    11.120 1.0 Pg
+BVV    13.770 1.0 Pg
+HNV    13.770 1.0 Pg
+HBV    17.270 1.0 Pg
+BTV    19.060 1.0 Pg
+YTV    20.330 1.0 Pg
+DSV    20.930 1.0 Pg
+#        461
+TLV    10.500 1.0 Pg
+BVV    11.880 1.0 Pg
+DHV    14.400 1.0 Pg
+HNV    17.630 1.0 Pg
+TDV    18.590 1.0 Pg
+TDV    19.870 1.0 Pg
+DSV    23.490 1.0 Pg
+DSV    23.550 1.0 Pg
+DSV    24.530 1.0 Pg
+PLV    34.190 1.0 Pg
+YTV    35.520 1.0 Pg
+#        462
+DHV    32.370 1.0 Pg
+TDV    41.390 1.0 Pg
+BVV    41.760 1.0 Pg
+HNV    47.310 1.0 Pg
+MTV    52.010 1.0 Pg
+BGV    51.960 1.0 Pg
+DSV    55.010 1.0 Pg
+PLV    62.480 1.0 Pg
+#        463
+DHV    25.900 1.0 Pg
+TDV    34.600 1.0 Pg
+BVV    36.010 1.0 Pg
+HNV    41.330 1.0 Pg
+MTV    44.700 1.0 Pg
+BGV    44.980 1.0 Pg
+DSV    49.740 1.0 Pg
+PLV    56.200 1.0 Pg
+#        464
+THV    10.330 1.0 Pg
+HNV    30.630 1.0 Pg
+PLV    32.370 1.0 Pg
+BVV    33.630 1.0 Pg
+BGV    38.240 1.0 Pg
+MTV    43.290 1.0 Pg
+DHV    44.690 1.0 Pg
+#        465
+MTV    13.510 1.0 Pg
+BGV    18.600 1.0 Pg
+TDV    21.080 1.0 Pg
+#        466
+DSV    22.050 1.0 Pg
+BVV    31.040 1.0 Pg
+BGV    34.690 1.0 Pg
+YTV    36.130 1.0 Pg
+TDV    38.110 1.0 Pg
+MTV    39.970 1.0 Pg
+DHV    42.150 1.0 Pg
+#        467
+BVV    10.900 1.0 Pg
+DHV    14.070 1.0 Pg
+HNV    16.500 1.0 Pg
+TDV    18.010 1.0 Pg
+YTV    34.830 1.0 Pg
+#        468
+TDV     4.090 1.0 Pg
+DHV     8.830 1.0 Pg
+BGV    10.920 1.0 Pg
+MTV    12.630 1.0 Pg
+BVV    13.760 1.0 Pg
+HNV    13.570 1.0 Pg
+YTV    20.960 1.0 Pg
+DSV    20.590 1.0 Pg
+#        469
+YTV    55.130 1.0 Pg
+PLV    61.080 1.0 Pg
+DSV    62.780 1.0 Pg
+#        470
+LAV    11.290 1.0 Pg
+LAV    11.860 1.0 Pg
+YTV    33.390 1.0 Pg
+#        471
+BVV    18.900 1.0 Pg
+HNV    20.240 1.0 Pg
+MTV    36.300 1.0 Pg
+YTV    37.630 1.0 Pg
+#        472
+MTV    42.330 1.0 Pg
+BVV    43.170 1.0 Pg
+HNV    47.100 1.0 Pg
+YTV    52.420 1.0 Pg
+#        473
+HNV    30.870 1.0 Pg
+DSV    38.430 1.0 Pg
+MTV    40.390 1.0 Pg
+YTV    47.690 1.0 Pg
+#        474
+DHV    31.460 1.0 Pg
+MTV    47.280 1.0 Pg
+HNV    47.280 1.0 Pg
+BGV    48.680 1.0 Pg
+YTV    57.090 1.0 Pg
+PLV    60.180 1.0 Pg

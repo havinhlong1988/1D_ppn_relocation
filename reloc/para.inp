@@ -1,0 +1,67 @@
+!-CONTROL SETTING
+    real*8 Ws2p,damp,rmscut,adjcut,cut_off
+    integer maxitr,maxirs,maxevt,maxsta,maxrds,maxnlat,maxnlon,maxndep,ilatdeg,ilondeg,idepkm,&
+            maxtrpts,maxcoef,maxgrid,maxcor,iluck
+    parameter(Ws2p=0.5)  ! Phase weight of S wave corresponded with P wave
+    parameter(damp=0.05) ! model damping
+    parameter(maxcor=1)  ! station correlation (=1 if no corr)
+    parameter(maxitr=4)  ! Number of relocate iterations
+    parameter(maxirs=5)  ! Number of lottery search
+    parameter(rmscut=0.01)
+    parameter(adjcut=0.5)  ! km unit
+    parameter(cut_off=50.0)  ! not use the ray over cut_off sec residual with observed ray
+    parameter(iluck=0) ! Set parameter for play role the lottery = 1 or not = 0
+    parameter(iluflag=0) ! location uncertainty accumulation flag (0= no sum the error over iterations, 1 = yes)
+    parameter(imod=2) ! The wave type used. 1 for P wave only, 2 for P & S wave
+    parameter(ijoint=1) ! Joint Pg, Pn or not (0 = no, 1 = yes)
+    parameter(iforcedepth=0) ! use force the depth to 0 when the depth become negative (0 = no, 1 = yes)
+
+!-DIMENSION SETTING
+    parameter(maxevt=10000)
+    parameter(maxsta=1000)
+    parameter(maxrds=5000000)
+    parameter(maxvar=4)
+    parameter(maxnorm=maxrds*maxvar)
+    ! velmod
+    parameter(maxnlat=200)
+    parameter(maxnlon=200)
+    parameter(maxndep=200)
+    parameter(ilatdeg=10000)
+    parameter(ilondeg=10000)
+    parameter(idepkm=10000)
+    ! pbr
+    parameter(maxtrpts=16384)
+    ! Pn_path
+    parameter(ddel=0.01)
+
+!-PARAMETER SETTING
+    ! data_IO
+    character*5 sta_nm(maxsta)
+    integer nevt,nsta,nray,ray_pha(maxrds),evt_pack(maxevt),ray_wei(maxrds)
+    integer evt_date(maxevt),evt_time(maxevt),evt_id(maxevt),evt_idx(maxrds),sta_idx(maxrds)
+    real*8 evt_loc(maxevt,3),evt_mag(maxevt),sta_loc(maxsta,3),sta_cor(maxsta,2),abs_tt(maxrds)
+    common /data_IO/ evt_loc,evt_mag,sta_loc,sta_cor,abs_tt,sta_nm,nevt,nsta,nray,&
+                     ray_wei,ray_pha,evt_pack,evt_date,evt_time,evt_id,evt_idx,sta_idx
+
+    ! velmod(loadvel)
+    real*8 bld1,bld2,bld3,bld4,ro,dm
+    real*8 lat_c(maxnlat),lon_c(maxnlon),dep_c(maxndep)
+    real*8 lat_m(maxnlat),lon_m(maxnlon),lat_moho(maxnlat),lon_moho(maxnlon)
+    real*8 vp(maxnlon,maxnlat,maxndep),vs(maxnlon,maxnlat,maxndep)
+    real*8 vsn(maxnlon,maxnlat),vpn(maxnlon,maxnlat),mhd(maxnlon,maxnlat)
+    integer nlat_c,nlon_c,ndep_c,nlat_m,nlon_m,nlat_moho,nlon_moho,ivmod
+    integer nlat_ms,nlon_ms,nlat_cs,nlon_cs
+    common /velmod/ bld1,bld2,bld3,bld4,ro,dm,lat_c,lon_c,dep_c,lat_m,lon_m,lat_moho,lon_moho,&
+                    vp,vs,vpn,mhd,nlat_c,nlon_c,ndep_c,nlat_m,nlon_m,nlat_moho,nlon_moho,ivmod
+
+    ! (bldmap)
+    real*8 lat1_c,lon1_c,dep1_c,lat1_m,lon1_m,lat1_moho,lon1_moho
+    integer ilonloc_c(ilondeg),ilatloc_c(ilatdeg),ideploc_c(idepkm)
+    integer ilonloc_m(ilondeg),ilatloc_m(ilatdeg),ilonloc_moho(ilondeg),ilatloc_moho(ilatdeg)
+    common /map_set/ lat1_c,lon1_c,dep1_c,lat1_m,lon1_m,lat1_moho,lon1_moho,ilonloc_c,&
+                     ilatloc_c,ideploc_c,ilonloc_m,ilatloc_m,ilonloc_moho,ilatloc_moho
+ 
+    ! reloc_inv
+    integer evtnow,ray_idx(maxsta),icor,itr,irs,iflag,nrow
+    real*8 rms,rms_ini,adj,res(maxsta),epid(maxsta),tkofag(maxsta),azi(maxsta)
+    common /reloc_inv/ rms,rms_ini,adj,res,epid,tkofag,azi,evtnow,ray_idx,icor,itr,irs,iflag,nrow

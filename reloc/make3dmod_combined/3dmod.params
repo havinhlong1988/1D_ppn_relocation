@@ -1,0 +1,18 @@
+*	============= Parameter file for make 3D model from 1D model =======
+*	Any line start with * character will be ignore.
+*	------------------- Start the parameter ----------------------------
+* Start long - end long
+100.0   110.0
+* Start lat - end lat
+17.5    25.5
+* Horizontal grid (grdxy)
+0.25
+*   Span boudary of the model 
+3.0
+* number of models: nmod (1=P, 2=S, 3= P&S)
+3
+* Input 1st models (if nmod=1, it P mod or S mod)
+output_005P
+* Input 2nd model
+output_005S
+*

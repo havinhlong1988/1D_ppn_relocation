@@ -1,0 +1,134 @@
+# reloc
+# --------------------------    
+# content:
+#       1) parameter files
+#       2) input files
+#       3) output files
+#       4) use of Makefile
+#       5) tool directories
+# --------------------------
+
+1) parameter files: para.inp, input
+	para.inp: Ws2p: weighting ratio of S wave over P wave data
+	          damp: damping factor for regularization
+	          maxcor: max. number of station correction iterations
+	          maxitr: max. number of relocation iterations
+	          maxirs: max. number of researching iterations
+	          rmscut: stop crieria - threshold of time residuals
+	          adjcut: stop crieria - threshold of distance adjustments
+
+        input: 1th line - station file name
+               2nd line - event file name
+               3rd line - travel time file name
+               4th line - model file name
+               5th line - moho depth
+
+
+
+2) input files: MOD, sta, evt, tt
+	MOD: the model combined by pn and crust models
+                   xy_int z_int x_grd y_grd
+                     0.5    1.    9     6
+             lon    98.00  98.50  99.00  99.50 100.00 100.50 101.00 101.50 102.00
+             lat    16.50  17.00  17.50  18.00  18.50  19.00
+                   xy_int z_int x_grd y_grd z_grd
+                     0.5    1.    9     6     4
+             lon    98.00  98.50  99.00  99.50 100.00 100.50 101.00 101.50 102.00
+             lat    16.50  17.00  17.50  18.00  18.50  19.00
+             dep   -10.00   0.00  10.00  20.00
+             vm      8.000  8.000  8.000  8.000  8.000  8.000  8.000  8.000  8.000
+                     8.000  8.000  8.000  8.000  8.000  8.000  8.000  8.000  8.000
+                     8.000  8.000  8.000  8.000  8.000  8.000  8.000  8.000  8.000
+                     8.000  8.000  8.000  8.000  8.000  8.000  8.000  8.000  8.000
+                     8.000  8.000  8.000  8.000  8.000  8.000  8.000  8.000  8.000
+                     8.000  8.000  8.000  8.000  8.000  8.000  8.000  8.000  8.000
+             vc-10   6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+             vc  0   6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+             vc 10   6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+             vc 20   6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+                     6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000  6.000
+
+             *xy_int: interval in lon(x) and lat(y) (degree)
+             *z_int: again, set it default = 1. (km)
+             *x_grd: grid number in lon(x)
+             *y_grd: grid number in lat(y)
+	     *z_grd: grid number in depth
+             *vm: the velocities should be in a matrix form of 9 x 6
+	     *vc: the velocities should be in a matrix form of 9 x 6 at different depth
+
+	sta: station file
+             stn        lat         lon         elv
+             TAP     25.037670   121.513800      6.0
+             HSN0    24.800330   120.977700       .0
+             TCU     24.145670   120.684000    -66.0
+
+             *elv: elevation of station (meter)
+
+        evt: event file
+               date      time      lat      lon      dep   mag     junk 1, 2, 3        id
+             19910108  10031786   23.986  121.422   15.03  3.0     .0   .0   .0        30
+             19910109  10522440   23.814  121.517   11.01  3.6     .0   .0   .0        31
+             19910109  13555408   23.805  121.583    7.91  3.6     .0   .0   .0        32
+
+             *junk: these three columns are not functioned so far.
+
+        tt: travel time file
+             str       evtid
+             #           1
+             stn         tt    wei   phase
+             TWD         6.83   1     Pg
+             TWD        12.27   2     Sg
+             TWT0       11.30   2     Pn
+             #           2
+             TWD         6.94  1  Pg
+             TWT0        8.74  1  Pg
+
+             *str:   a string symbol for identification of each segment of info
+             *evtid: needed to correspond to each "id" of file "evt"
+             *stn:   station name
+             *tt:    absolute travel times
+             *wei:   weighting for phases, currently this column is not functioned. Simply you can set them 0.
+             *phase: for current version of scheme, you can put in any phase whatever you want, but the program will only use Pg and Pn for inversion.
+
+
+
+3) output files: s3dloc.chk, s3dloc.cor, s3dloc.err s3dloc.lis, s3dloc.out, s3dloc.rms
+	s3dloc.chk: checking file for relocation
+	s3dloc.cor: station correction after relocation
+	s3dloc.err: illed-conditioned events
+	s3dloc.lis: improved events (as the input file "evt" for inversion)
+	s3dloc.out: updated travel times after relocation (as the input file "tt" for inversion) 
+	s3dloc.rms: output total rms at each correction iterations (number set as the parameter "maxcor")
+
+
+
+4) use of Makefile:
+        make - compile the associated codes, generate the executable file "reloc", and start the inversion
+        make clean - clean the compiled objective files
+        make backup - if you'd like to  modify the codes on your own, you can use this command to copy all the scripts in this folder (*.c *.f *.inp) to directory "src" for backup. (notice: it will replace the original scripts in the directory "src" if the names are the same)
+
+
+
+5) tool directories: makeckbmod, gaussian
+        makeinput: convert the ray-info file to separate evt, sta, tt files for forward input 
+
+

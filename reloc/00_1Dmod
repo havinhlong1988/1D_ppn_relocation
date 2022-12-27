@@ -1,0 +1,3090 @@
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -W2,255/144/0 -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+2 W
+1 0.565 0 C
+287 1800 M
+10 -300 D
+8 -300 D
+5 -300 D
+0 -132 D
+716 0 D
+0 -768 D
+S
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -Ba1f10g1:Velocity (km/s):/2a10f100g5:Depth (km):WeSn -Cite.cpt -Sc0.1i -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+clipsave
+0 0 M
+1200 0 D
+0 1800 D
+-1200 0 D
+eoclip N
+1 W
+0 A
+cliprestore
+gsave
+
+0 1800 M
+0 -1800 D
+S
+343 1800 M
+0 -1800 D
+S
+686 1800 M
+0 -1800 D
+S
+1029 1800 M
+0 -1800 D
+S
+0 1800 M
+1200 0 D
+S
+0 1650 M
+1200 0 D
+S
+0 1500 M
+1200 0 D
+S
+0 1350 M
+1200 0 D
+S
+0 1200 M
+1200 0 D
+S
+0 1050 M
+1200 0 D
+S
+0 900 M
+1200 0 D
+S
+0 750 M
+1200 0 D
+S
+0 600 M
+1200 0 D
+S
+0 450 M
+1200 0 D
+S
+0 300 M
+1200 0 D
+S
+0 150 M
+1200 0 D
+S
+0 0 M
+1200 0 D
+S
+grestore
+gsave 2 setlinecap
+90 R
+/PSL_sign 1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 24 D S
+1500 0 M 0 24 D S
+1200 0 M 0 24 D S
+900 0 M 0 24 D S
+600 0 M 0 24 D S
+300 0 M 0 24 D S
+0 0 M 0 24 D S
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+1800 0 M 0 12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 1800 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (0) Z U
+/PSL_x 1500 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (10) Z U
+/PSL_x 1200 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (20) Z U
+/PSL_x 900 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (30) Z U
+/PSL_x 600 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (40) Z U
+/PSL_x 300 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (50) Z U
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (60) Z U
+/PSL_x 900 def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Depth \(km\)) Z
+-90 R
+1200 0 T 90 R
+/PSL_sign -1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 -24 D S
+1500 0 M 0 -24 D S
+1200 0 M 0 -24 D S
+900 0 M 0 -24 D S
+600 0 M 0 -24 D S
+300 0 M 0 -24 D S
+0 0 M 0 -24 D S
+1800 0 M 0 -12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+-90 R -1200 0 T
+/PSL_sign -1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 -24 D S
+343 0 M 0 -24 D S
+686 0 M 0 -24 D S
+1029 0 M 0 -24 D S
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (5) Z
+/PSL_x 343 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (6) Z
+/PSL_x 686 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (7) Z
+/PSL_x 1029 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (8) Z
+/PSL_x 600 def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Velocity \(km/s\)) Z
+0 1800 T
+/PSL_sign 1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 24 D S
+343 0 M 0 24 D S
+686 0 M 0 24 D S
+1029 0 M 0 24 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+0 -1800 T
+grestore
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -W2,255/144/0 -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+2 W
+1 0.565 0 C
+287 1800 M
+10 -300 D
+8 -300 D
+5 -300 D
+0 -132 D
+716 0 D
+0 -768 D
+S
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -Ba1f10g1:Velocity (km/s):/2a10f100g5:Depth (km):WeSn -Cite.cpt -Sc0.1i -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+clipsave
+0 0 M
+1200 0 D
+0 1800 D
+-1200 0 D
+eoclip N
+1 W
+0 A
+cliprestore
+gsave
+
+0 1800 M
+0 -1800 D
+S
+343 1800 M
+0 -1800 D
+S
+686 1800 M
+0 -1800 D
+S
+1029 1800 M
+0 -1800 D
+S
+0 1800 M
+1200 0 D
+S
+0 1650 M
+1200 0 D
+S
+0 1500 M
+1200 0 D
+S
+0 1350 M
+1200 0 D
+S
+0 1200 M
+1200 0 D
+S
+0 1050 M
+1200 0 D
+S
+0 900 M
+1200 0 D
+S
+0 750 M
+1200 0 D
+S
+0 600 M
+1200 0 D
+S
+0 450 M
+1200 0 D
+S
+0 300 M
+1200 0 D
+S
+0 150 M
+1200 0 D
+S
+0 0 M
+1200 0 D
+S
+grestore
+gsave 2 setlinecap
+90 R
+/PSL_sign 1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 24 D S
+1500 0 M 0 24 D S
+1200 0 M 0 24 D S
+900 0 M 0 24 D S
+600 0 M 0 24 D S
+300 0 M 0 24 D S
+0 0 M 0 24 D S
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+1800 0 M 0 12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 1800 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (0) Z U
+/PSL_x 1500 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (10) Z U
+/PSL_x 1200 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (20) Z U
+/PSL_x 900 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (30) Z U
+/PSL_x 600 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (40) Z U
+/PSL_x 300 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (50) Z U
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (60) Z U
+/PSL_x 900 def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Depth \(km\)) Z
+-90 R
+1200 0 T 90 R
+/PSL_sign -1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 -24 D S
+1500 0 M 0 -24 D S
+1200 0 M 0 -24 D S
+900 0 M 0 -24 D S
+600 0 M 0 -24 D S
+300 0 M 0 -24 D S
+0 0 M 0 -24 D S
+1800 0 M 0 -12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+-90 R -1200 0 T
+/PSL_sign -1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 -24 D S
+343 0 M 0 -24 D S
+686 0 M 0 -24 D S
+1029 0 M 0 -24 D S
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (5) Z
+/PSL_x 343 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (6) Z
+/PSL_x 686 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (7) Z
+/PSL_x 1029 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (8) Z
+/PSL_x 600 def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Velocity \(km/s\)) Z
+0 1800 T
+/PSL_sign 1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 24 D S
+343 0 M 0 24 D S
+686 0 M 0 24 D S
+1029 0 M 0 24 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+0 -1800 T
+grestore
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -W2,255/144/0 -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+2 W
+1 0.565 0 C
+287 1800 M
+10 -300 D
+8 -300 D
+5 -300 D
+0 -132 D
+716 0 D
+0 -768 D
+S
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -Ba1f10g1:Velocity (km/s):/2a10f100g5:Depth (km):WeSn -Cite.cpt -Sc0.1i -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+clipsave
+0 0 M
+1200 0 D
+0 1800 D
+-1200 0 D
+eoclip N
+1 W
+0 A
+cliprestore
+gsave
+
+0 1800 M
+0 -1800 D
+S
+343 1800 M
+0 -1800 D
+S
+686 1800 M
+0 -1800 D
+S
+1029 1800 M
+0 -1800 D
+S
+0 1800 M
+1200 0 D
+S
+0 1650 M
+1200 0 D
+S
+0 1500 M
+1200 0 D
+S
+0 1350 M
+1200 0 D
+S
+0 1200 M
+1200 0 D
+S
+0 1050 M
+1200 0 D
+S
+0 900 M
+1200 0 D
+S
+0 750 M
+1200 0 D
+S
+0 600 M
+1200 0 D
+S
+0 450 M
+1200 0 D
+S
+0 300 M
+1200 0 D
+S
+0 150 M
+1200 0 D
+S
+0 0 M
+1200 0 D
+S
+grestore
+gsave 2 setlinecap
+90 R
+/PSL_sign 1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 24 D S
+1500 0 M 0 24 D S
+1200 0 M 0 24 D S
+900 0 M 0 24 D S
+600 0 M 0 24 D S
+300 0 M 0 24 D S
+0 0 M 0 24 D S
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+1800 0 M 0 12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 1800 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (0) Z U
+/PSL_x 1500 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (10) Z U
+/PSL_x 1200 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (20) Z U
+/PSL_x 900 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (30) Z U
+/PSL_x 600 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (40) Z U
+/PSL_x 300 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (50) Z U
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (60) Z U
+/PSL_x 900 def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Depth \(km\)) Z
+-90 R
+1200 0 T 90 R
+/PSL_sign -1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 -24 D S
+1500 0 M 0 -24 D S
+1200 0 M 0 -24 D S
+900 0 M 0 -24 D S
+600 0 M 0 -24 D S
+300 0 M 0 -24 D S
+0 0 M 0 -24 D S
+1800 0 M 0 -12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+-90 R -1200 0 T
+/PSL_sign -1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 -24 D S
+343 0 M 0 -24 D S
+686 0 M 0 -24 D S
+1029 0 M 0 -24 D S
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (5) Z
+/PSL_x 343 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (6) Z
+/PSL_x 686 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (7) Z
+/PSL_x 1029 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (8) Z
+/PSL_x 600 def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Velocity \(km/s\)) Z
+0 1800 T
+/PSL_sign 1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 24 D S
+343 0 M 0 24 D S
+686 0 M 0 24 D S
+1029 0 M 0 24 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+0 -1800 T
+grestore
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -W2,255/144/0 -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+2 W
+1 0.565 0 C
+287 1800 M
+10 -300 D
+8 -300 D
+5 -300 D
+0 -132 D
+716 0 D
+0 -768 D
+S
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -Ba1f10g1:Velocity (km/s):/2a10f100g5:Depth (km):WeSn -Cite.cpt -Sc0.1i -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+clipsave
+0 0 M
+1200 0 D
+0 1800 D
+-1200 0 D
+eoclip N
+1 W
+0 A
+cliprestore
+gsave
+
+0 1800 M
+0 -1800 D
+S
+343 1800 M
+0 -1800 D
+S
+686 1800 M
+0 -1800 D
+S
+1029 1800 M
+0 -1800 D
+S
+0 1800 M
+1200 0 D
+S
+0 1650 M
+1200 0 D
+S
+0 1500 M
+1200 0 D
+S
+0 1350 M
+1200 0 D
+S
+0 1200 M
+1200 0 D
+S
+0 1050 M
+1200 0 D
+S
+0 900 M
+1200 0 D
+S
+0 750 M
+1200 0 D
+S
+0 600 M
+1200 0 D
+S
+0 450 M
+1200 0 D
+S
+0 300 M
+1200 0 D
+S
+0 150 M
+1200 0 D
+S
+0 0 M
+1200 0 D
+S
+grestore
+gsave 2 setlinecap
+90 R
+/PSL_sign 1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 24 D S
+1500 0 M 0 24 D S
+1200 0 M 0 24 D S
+900 0 M 0 24 D S
+600 0 M 0 24 D S
+300 0 M 0 24 D S
+0 0 M 0 24 D S
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+1800 0 M 0 12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 1800 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (0) Z U
+/PSL_x 1500 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (10) Z U
+/PSL_x 1200 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (20) Z U
+/PSL_x 900 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (30) Z U
+/PSL_x 600 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (40) Z U
+/PSL_x 300 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (50) Z U
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (60) Z U
+/PSL_x 900 def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Depth \(km\)) Z
+-90 R
+1200 0 T 90 R
+/PSL_sign -1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 -24 D S
+1500 0 M 0 -24 D S
+1200 0 M 0 -24 D S
+900 0 M 0 -24 D S
+600 0 M 0 -24 D S
+300 0 M 0 -24 D S
+0 0 M 0 -24 D S
+1800 0 M 0 -12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+-90 R -1200 0 T
+/PSL_sign -1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 -24 D S
+343 0 M 0 -24 D S
+686 0 M 0 -24 D S
+1029 0 M 0 -24 D S
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (5) Z
+/PSL_x 343 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (6) Z
+/PSL_x 686 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (7) Z
+/PSL_x 1029 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (8) Z
+/PSL_x 600 def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Velocity \(km/s\)) Z
+0 1800 T
+/PSL_sign 1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 24 D S
+343 0 M 0 24 D S
+686 0 M 0 24 D S
+1029 0 M 0 24 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+0 -1800 T
+grestore
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -W2,255/144/0 -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+2 W
+1 0.565 0 C
+287 1800 M
+10 -300 D
+8 -300 D
+5 -300 D
+0 -132 D
+716 0 D
+0 -768 D
+S
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -Ba1f10g1:Velocity (km/s):/2a10f100g5:Depth (km):WeSn -Cite.cpt -Sc0.1i -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+clipsave
+0 0 M
+1200 0 D
+0 1800 D
+-1200 0 D
+eoclip N
+1 W
+0 A
+cliprestore
+gsave
+
+0 1800 M
+0 -1800 D
+S
+343 1800 M
+0 -1800 D
+S
+686 1800 M
+0 -1800 D
+S
+1029 1800 M
+0 -1800 D
+S
+0 1800 M
+1200 0 D
+S
+0 1650 M
+1200 0 D
+S
+0 1500 M
+1200 0 D
+S
+0 1350 M
+1200 0 D
+S
+0 1200 M
+1200 0 D
+S
+0 1050 M
+1200 0 D
+S
+0 900 M
+1200 0 D
+S
+0 750 M
+1200 0 D
+S
+0 600 M
+1200 0 D
+S
+0 450 M
+1200 0 D
+S
+0 300 M
+1200 0 D
+S
+0 150 M
+1200 0 D
+S
+0 0 M
+1200 0 D
+S
+grestore
+gsave 2 setlinecap
+90 R
+/PSL_sign 1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 24 D S
+1500 0 M 0 24 D S
+1200 0 M 0 24 D S
+900 0 M 0 24 D S
+600 0 M 0 24 D S
+300 0 M 0 24 D S
+0 0 M 0 24 D S
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+1800 0 M 0 12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 1800 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (0) Z U
+/PSL_x 1500 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (10) Z U
+/PSL_x 1200 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (20) Z U
+/PSL_x 900 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (30) Z U
+/PSL_x 600 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (40) Z U
+/PSL_x 300 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (50) Z U
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (60) Z U
+/PSL_x 900 def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Depth \(km\)) Z
+-90 R
+1200 0 T 90 R
+/PSL_sign -1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 -24 D S
+1500 0 M 0 -24 D S
+1200 0 M 0 -24 D S
+900 0 M 0 -24 D S
+600 0 M 0 -24 D S
+300 0 M 0 -24 D S
+0 0 M 0 -24 D S
+1800 0 M 0 -12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+-90 R -1200 0 T
+/PSL_sign -1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 -24 D S
+343 0 M 0 -24 D S
+686 0 M 0 -24 D S
+1029 0 M 0 -24 D S
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (5) Z
+/PSL_x 343 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (6) Z
+/PSL_x 686 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (7) Z
+/PSL_x 1029 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (8) Z
+/PSL_x 600 def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Velocity \(km/s\)) Z
+0 1800 T
+/PSL_sign 1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 24 D S
+343 0 M 0 24 D S
+686 0 M 0 24 D S
+1029 0 M 0 24 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+0 -1800 T
+grestore
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -W2,255/144/0 -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+2 W
+1 0.565 0 C
+287 1800 M
+10 -300 D
+8 -300 D
+5 -300 D
+0 -132 D
+716 0 D
+0 -768 D
+S
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -Ba1f10g1:Velocity (km/s):/2a10f100g5:Depth (km):WeSn -Cite.cpt -Sc0.1i -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+clipsave
+0 0 M
+1200 0 D
+0 1800 D
+-1200 0 D
+eoclip N
+1 W
+0 A
+cliprestore
+gsave
+
+0 1800 M
+0 -1800 D
+S
+343 1800 M
+0 -1800 D
+S
+686 1800 M
+0 -1800 D
+S
+1029 1800 M
+0 -1800 D
+S
+0 1800 M
+1200 0 D
+S
+0 1650 M
+1200 0 D
+S
+0 1500 M
+1200 0 D
+S
+0 1350 M
+1200 0 D
+S
+0 1200 M
+1200 0 D
+S
+0 1050 M
+1200 0 D
+S
+0 900 M
+1200 0 D
+S
+0 750 M
+1200 0 D
+S
+0 600 M
+1200 0 D
+S
+0 450 M
+1200 0 D
+S
+0 300 M
+1200 0 D
+S
+0 150 M
+1200 0 D
+S
+0 0 M
+1200 0 D
+S
+grestore
+gsave 2 setlinecap
+90 R
+/PSL_sign 1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 24 D S
+1500 0 M 0 24 D S
+1200 0 M 0 24 D S
+900 0 M 0 24 D S
+600 0 M 0 24 D S
+300 0 M 0 24 D S
+0 0 M 0 24 D S
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+1800 0 M 0 12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 1800 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (0) Z U
+/PSL_x 1500 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (10) Z U
+/PSL_x 1200 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (20) Z U
+/PSL_x 900 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (30) Z U
+/PSL_x 600 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (40) Z U
+/PSL_x 300 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (50) Z U
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (60) Z U
+/PSL_x 900 def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Depth \(km\)) Z
+-90 R
+1200 0 T 90 R
+/PSL_sign -1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 -24 D S
+1500 0 M 0 -24 D S
+1200 0 M 0 -24 D S
+900 0 M 0 -24 D S
+600 0 M 0 -24 D S
+300 0 M 0 -24 D S
+0 0 M 0 -24 D S
+1800 0 M 0 -12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+-90 R -1200 0 T
+/PSL_sign -1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 -24 D S
+343 0 M 0 -24 D S
+686 0 M 0 -24 D S
+1029 0 M 0 -24 D S
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (5) Z
+/PSL_x 343 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (6) Z
+/PSL_x 686 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (7) Z
+/PSL_x 1029 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (8) Z
+/PSL_x 600 def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Velocity \(km/s\)) Z
+0 1800 T
+/PSL_sign 1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 24 D S
+343 0 M 0 24 D S
+686 0 M 0 24 D S
+1029 0 M 0 24 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+0 -1800 T
+grestore
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -W2,255/144/0 -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+2 W
+1 0.565 0 C
+287 1800 M
+10 -300 D
+8 -300 D
+5 -300 D
+0 -132 D
+716 0 D
+0 -768 D
+S
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -Ba1f10g1:Velocity (km/s):/2a10f100g5:Depth (km):WeSn -Cite.cpt -Sc0.05i -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+clipsave
+0 0 M
+1200 0 D
+0 1800 D
+-1200 0 D
+eoclip N
+1 W
+0 A
+cliprestore
+gsave
+
+0 1800 M
+0 -1800 D
+S
+343 1800 M
+0 -1800 D
+S
+686 1800 M
+0 -1800 D
+S
+1029 1800 M
+0 -1800 D
+S
+0 1800 M
+1200 0 D
+S
+0 1650 M
+1200 0 D
+S
+0 1500 M
+1200 0 D
+S
+0 1350 M
+1200 0 D
+S
+0 1200 M
+1200 0 D
+S
+0 1050 M
+1200 0 D
+S
+0 900 M
+1200 0 D
+S
+0 750 M
+1200 0 D
+S
+0 600 M
+1200 0 D
+S
+0 450 M
+1200 0 D
+S
+0 300 M
+1200 0 D
+S
+0 150 M
+1200 0 D
+S
+0 0 M
+1200 0 D
+S
+grestore
+gsave 2 setlinecap
+90 R
+/PSL_sign 1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 24 D S
+1500 0 M 0 24 D S
+1200 0 M 0 24 D S
+900 0 M 0 24 D S
+600 0 M 0 24 D S
+300 0 M 0 24 D S
+0 0 M 0 24 D S
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+1800 0 M 0 12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 1800 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (0) Z U
+/PSL_x 1500 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (10) Z U
+/PSL_x 1200 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (20) Z U
+/PSL_x 900 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (30) Z U
+/PSL_x 600 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (40) Z U
+/PSL_x 300 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (50) Z U
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (60) Z U
+/PSL_x 900 def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Depth \(km\)) Z
+-90 R
+1200 0 T 90 R
+/PSL_sign -1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 -24 D S
+1500 0 M 0 -24 D S
+1200 0 M 0 -24 D S
+900 0 M 0 -24 D S
+600 0 M 0 -24 D S
+300 0 M 0 -24 D S
+0 0 M 0 -24 D S
+1800 0 M 0 -12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+-90 R -1200 0 T
+/PSL_sign -1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 -24 D S
+343 0 M 0 -24 D S
+686 0 M 0 -24 D S
+1029 0 M 0 -24 D S
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (5) Z
+/PSL_x 343 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (6) Z
+/PSL_x 686 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (7) Z
+/PSL_x 1029 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (8) Z
+/PSL_x 600 def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Velocity \(km/s\)) Z
+0 1800 T
+/PSL_sign 1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 24 D S
+343 0 M 0 24 D S
+686 0 M 0 24 D S
+1029 0 M 0 24 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+0 -1800 T
+grestore
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -W2,255/144/0 -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+2 W
+1 0.565 0 C
+287 1800 M
+10 -300 D
+8 -300 D
+5 -300 D
+0 -132 D
+716 0 D
+0 -768 D
+S
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -Ba1f10g1:Velocity (km/s):/2a10f100g5:Depth (km):WeSn -Cite.cpt -Sc0.05i -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+clipsave
+0 0 M
+1200 0 D
+0 1800 D
+-1200 0 D
+eoclip N
+1 W
+0 A
+cliprestore
+gsave
+
+0 1800 M
+0 -1800 D
+S
+343 1800 M
+0 -1800 D
+S
+686 1800 M
+0 -1800 D
+S
+1029 1800 M
+0 -1800 D
+S
+0 1800 M
+1200 0 D
+S
+0 1650 M
+1200 0 D
+S
+0 1500 M
+1200 0 D
+S
+0 1350 M
+1200 0 D
+S
+0 1200 M
+1200 0 D
+S
+0 1050 M
+1200 0 D
+S
+0 900 M
+1200 0 D
+S
+0 750 M
+1200 0 D
+S
+0 600 M
+1200 0 D
+S
+0 450 M
+1200 0 D
+S
+0 300 M
+1200 0 D
+S
+0 150 M
+1200 0 D
+S
+0 0 M
+1200 0 D
+S
+grestore
+gsave 2 setlinecap
+90 R
+/PSL_sign 1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 24 D S
+1500 0 M 0 24 D S
+1200 0 M 0 24 D S
+900 0 M 0 24 D S
+600 0 M 0 24 D S
+300 0 M 0 24 D S
+0 0 M 0 24 D S
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+1800 0 M 0 12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 1800 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (0) Z U
+/PSL_x 1500 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (10) Z U
+/PSL_x 1200 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (20) Z U
+/PSL_x 900 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (30) Z U
+/PSL_x 600 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (40) Z U
+/PSL_x 300 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (50) Z U
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (60) Z U
+/PSL_x 900 def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Depth \(km\)) Z
+-90 R
+1200 0 T 90 R
+/PSL_sign -1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 -24 D S
+1500 0 M 0 -24 D S
+1200 0 M 0 -24 D S
+900 0 M 0 -24 D S
+600 0 M 0 -24 D S
+300 0 M 0 -24 D S
+0 0 M 0 -24 D S
+1800 0 M 0 -12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+-90 R -1200 0 T
+/PSL_sign -1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 -24 D S
+343 0 M 0 -24 D S
+686 0 M 0 -24 D S
+1029 0 M 0 -24 D S
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (5) Z
+/PSL_x 343 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (6) Z
+/PSL_x 686 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (7) Z
+/PSL_x 1029 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (8) Z
+/PSL_x 600 def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Velocity \(km/s\)) Z
+0 1800 T
+/PSL_sign 1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 24 D S
+343 0 M 0 24 D S
+686 0 M 0 24 D S
+1029 0 M 0 24 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+0 -1800 T
+grestore
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -W2,255/144/0 -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+2 W
+1 0.565 0 C
+287 1800 M
+10 -300 D
+8 -300 D
+5 -300 D
+0 -132 D
+716 0 D
+0 -768 D
+S
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -Ba1f10g1:Velocity (km/s):/2a10f100g5:Depth (km):WeSn -Cite.cpt -Sc0.05i -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+clipsave
+0 0 M
+1200 0 D
+0 1800 D
+-1200 0 D
+eoclip N
+1 W
+0 A
+cliprestore
+gsave
+
+0 1800 M
+0 -1800 D
+S
+343 1800 M
+0 -1800 D
+S
+686 1800 M
+0 -1800 D
+S
+1029 1800 M
+0 -1800 D
+S
+0 1800 M
+1200 0 D
+S
+0 1650 M
+1200 0 D
+S
+0 1500 M
+1200 0 D
+S
+0 1350 M
+1200 0 D
+S
+0 1200 M
+1200 0 D
+S
+0 1050 M
+1200 0 D
+S
+0 900 M
+1200 0 D
+S
+0 750 M
+1200 0 D
+S
+0 600 M
+1200 0 D
+S
+0 450 M
+1200 0 D
+S
+0 300 M
+1200 0 D
+S
+0 150 M
+1200 0 D
+S
+0 0 M
+1200 0 D
+S
+grestore
+gsave 2 setlinecap
+90 R
+/PSL_sign 1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 24 D S
+1500 0 M 0 24 D S
+1200 0 M 0 24 D S
+900 0 M 0 24 D S
+600 0 M 0 24 D S
+300 0 M 0 24 D S
+0 0 M 0 24 D S
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+1800 0 M 0 12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 1800 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (0) Z U
+/PSL_x 1500 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (10) Z U
+/PSL_x 1200 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (20) Z U
+/PSL_x 900 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (30) Z U
+/PSL_x 600 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (40) Z U
+/PSL_x 300 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (50) Z U
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (60) Z U
+/PSL_x 900 def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Depth \(km\)) Z
+-90 R
+1200 0 T 90 R
+/PSL_sign -1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 -24 D S
+1500 0 M 0 -24 D S
+1200 0 M 0 -24 D S
+900 0 M 0 -24 D S
+600 0 M 0 -24 D S
+300 0 M 0 -24 D S
+0 0 M 0 -24 D S
+1800 0 M 0 -12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+-90 R -1200 0 T
+/PSL_sign -1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 -24 D S
+343 0 M 0 -24 D S
+686 0 M 0 -24 D S
+1029 0 M 0 -24 D S
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (5) Z
+/PSL_x 343 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (6) Z
+/PSL_x 686 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (7) Z
+/PSL_x 1029 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (8) Z
+/PSL_x 600 def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Velocity \(km/s\)) Z
+0 1800 T
+/PSL_sign 1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 24 D S
+343 0 M 0 24 D S
+686 0 M 0 24 D S
+1029 0 M 0 24 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+0 -1800 T
+grestore
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -W2,255/144/0 -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+2 W
+1 0.565 0 C
+287 1800 M
+10 -300 D
+8 -300 D
+5 -300 D
+0 -132 D
+716 0 D
+0 -768 D
+S
+0 A
+PSL_font_encode 0 get 0 eq {ISOLatin1+_Encoding /Helvetica /Helvetica PSL_reencode PSL_font_encode 0 1 put} if
+0 setlinecap
+0 setlinejoin
+3.32551 setmiterlimit
+
+%% PostScript produced by:
+%%GMT:  psxy -V -JX4i/-6i -R5/8.5/0/60 -Ba1f10g1:Velocity (km/s):/2a10f100g5:Depth (km):WeSn -Cite.cpt -Sc0.05i -K -O
+%%PROJ: xy 5.00000000 8.50000000 0.00000000 60.00000000 5.000 8.500 60.000 -0.000 +xy +a=6378137.000 +b=6356752.314245
+clipsave
+0 0 M
+1200 0 D
+0 1800 D
+-1200 0 D
+eoclip N
+1 W
+0 A
+cliprestore
+gsave
+
+0 1800 M
+0 -1800 D
+S
+343 1800 M
+0 -1800 D
+S
+686 1800 M
+0 -1800 D
+S
+1029 1800 M
+0 -1800 D
+S
+0 1800 M
+1200 0 D
+S
+0 1650 M
+1200 0 D
+S
+0 1500 M
+1200 0 D
+S
+0 1350 M
+1200 0 D
+S
+0 1200 M
+1200 0 D
+S
+0 1050 M
+1200 0 D
+S
+0 900 M
+1200 0 D
+S
+0 750 M
+1200 0 D
+S
+0 600 M
+1200 0 D
+S
+0 450 M
+1200 0 D
+S
+0 300 M
+1200 0 D
+S
+0 150 M
+1200 0 D
+S
+0 0 M
+1200 0 D
+S
+grestore
+gsave 2 setlinecap
+90 R
+/PSL_sign 1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 24 D S
+1500 0 M 0 24 D S
+1200 0 M 0 24 D S
+900 0 M 0 24 D S
+600 0 M 0 24 D S
+300 0 M 0 24 D S
+0 0 M 0 24 D S
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_w PSL_AH0 gt {/PSL_AH0 PSL_dim_w def} if
+1800 0 M 0 12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 1800 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (0) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (0) Z U
+/PSL_x 1500 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (10) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (10) Z U
+/PSL_x 1200 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (20) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (20) Z U
+/PSL_x 900 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (30) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (30) Z U
+/PSL_x 600 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (40) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (40) Z U
+/PSL_x 300 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (50) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (50) Z U
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (60) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+V -90 R PSL_dim_w neg PSL_dim_h 2 div neg G 42 F0 (60) Z U
+/PSL_x 900 def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Depth \(km\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Depth \(km\)) Z
+-90 R
+1200 0 T 90 R
+/PSL_sign -1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1800 0 D S
+2 W
+1800 0 M 0 -24 D S
+1500 0 M 0 -24 D S
+1200 0 M 0 -24 D S
+900 0 M 0 -24 D S
+600 0 M 0 -24 D S
+300 0 M 0 -24 D S
+0 0 M 0 -24 D S
+1800 0 M 0 -12 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+-90 R -1200 0 T
+/PSL_sign -1 def
+/PSL_do_annot 1 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 -24 D S
+343 0 M 0 -24 D S
+686 0 M 0 -24 D S
+1029 0 M 0 -24 D S
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_AH0 gt {/PSL_AH0 PSL_dim_h def} if
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+/PSL_x 0 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (5) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (5) Z
+/PSL_x 343 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (6) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (6) Z
+/PSL_x 686 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (7) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (7) Z
+/PSL_x 1029 def
+PSL_x PSL_A0_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 42 F0 (8) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 42 F0 (8) Z
+/PSL_x 600 def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_x PSL_L_y M
+currentpoint /PSL_save_y exch def /PSL_save_x exch def
+0 0 M 50 F0 (Velocity \(km/s\)) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_save_x PSL_save_y M
+PSL_dim_w 2 div neg 0 G 50 F0 (Velocity \(km/s\)) Z
+0 1800 T
+/PSL_sign 1 def
+/PSL_do_annot 0 def
+/PSL_do_label 1 def
+/PSL_do_A1 0 def
+/PSL_TL1 24 def
+/PSL_AO0 24 def
+/PSL_AO1 24 def
+/PSL_LO 35 def
+/PSL_AF0 42 def
+/PSL_AF1 25 def
+/PSL_LF 50 def
+/PSL_AH0 0 def
+/PSL_AH1 0 def
+0 0 M 50 F0 (M) E /PSL_dim_w exch def FP pathbbox N /PSL_dim_h exch def pop /PSL_dim_d exch def pop
+PSL_dim_h PSL_dim_d sub /PSL_LH exch def
+5 W
+0 0 M 1200 0 D S
+2 W
+0 0 M 0 24 D S
+343 0 M 0 24 D S
+686 0 M 0 24 D S
+1029 0 M 0 24 D S
+/PSL_A0_y PSL_AO0 PSL_TL1 PSL_AO0 mul 0 gt {PSL_TL1 add} if PSL_AO0 0 gt {PSL_sign 0 lt {PSL_AH0} {0} ifelse add} if PSL_sign mul def
+/PSL_A1_y PSL_A0_y abs PSL_AO1 add PSL_sign 0 lt {PSL_AH1} {PSL_AH0} ifelse add PSL_sign mul def
+/PSL_L_y PSL_A1_y abs PSL_LO add PSL_sign 0 lt {PSL_LH} {PSL_AH1} ifelse add PSL_sign mul def
+0 -1800 T
+grestore
+0 A
